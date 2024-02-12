@@ -4,6 +4,8 @@
 *Projectteam: Tom De Deyn; Emile Delanote*
 
 25/01/2024
+<img src="C:\Emile\Ugent\Gebruiksgericht ontwerpen\images_tussentijds_rapport.png">
+
 
 ## Samenvatting
 
