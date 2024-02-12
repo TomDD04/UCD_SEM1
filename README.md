@@ -5,7 +5,7 @@
 
 25/01/2024
 
-## Samenvatting
+## Samen
 
 Het bedrijf Ontrax heeft een pod ontwikkeld die schokken door de benen kan meten via een kleine, op het scheenbeen geplaatste sensor. Echter, er zijn nog enkele problemen geconstateerd in hun ontwerp:
 1.	De pod lijkt te veel op een enkelband, wat bij gebruikers een gevoel van beperking en schaamte kan veroorzaken, doordat anderen mogelijk verkeerde gedachten over hen krijgen.
