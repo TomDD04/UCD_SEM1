@@ -5,6 +5,7 @@
 
 25/01/2024
 <img src="C:\Emile\Ugent\Gebruiksgericht ontwerpen\images_tussentijds_rapport.png">
+![voorpagina](https://github.com/TomDD04/UCD_SEM1/assets/159797493/f7cfc2f7-1c8e-4312-aa19-5863d3c9ca22)
 
 
 ## Samenvatting
