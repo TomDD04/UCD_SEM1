@@ -80,7 +80,8 @@ We hebben heel veel verschillende methodes/systemen gevonden en bedacht om de se
 -	Een sok waarop de sensor al is bevestigd.
 -	Een systeem dat draden opspant door ze op te rollen.
 -	Een klicksysteem gemaakt uit PLA met de 3D printer.
-![voorbeeld1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/5048a159-42da-48e1-b67c-f56cf338cca1)
+
+![voorbeeld1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/5048a159-42da-48e1-b67c-f56cf338cca1) 
 ![voorbeeld2](https://github.com/TomDD04/UCD_SEM1/assets/159797493/bf156656-c18f-42f2-b6be-d1f55b88493c)
 ![voorbeeld3](https://github.com/TomDD04/UCD_SEM1/assets/159797493/a0520c45-dd01-4497-8efd-f374677948f6)
 
@@ -128,9 +129,6 @@ Dit is ge-3D-print en vervolgens verwarmd met een haardroger en vervormd met beh
 ![geprint_bandje_1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/8721fa93-22d8-48d2-9553-45675985c5f9)
 ![geprint_bandje_1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/bc47cda6-e406-47cf-995b-800e0067b349)
 
-
-
-
 Als feedbacksysteem wordt er gekozen voor de app met alle informatie waar je kan chatten met een AI-bot en voor de band rond de bovenarm. De lichtgevende veters zullen achterwege gelaten worden maar er zal wel gebruik gemaakt worden van lichtjes.
 
 ![app_interface](https://github.com/TomDD04/UCD_SEM1/assets/159797493/06ee3388-69fa-4707-a216-eb63497b87cb)
@@ -139,22 +137,29 @@ Als feedbacksysteem wordt er gekozen voor de app met alle informatie waar je kan
 
 Bij dit systeem zijn we vooral uitgegaan van het gemak van de gebruiker. Het is de bedoeling dat de gebruiker dit product snel en gemakkelijk kan gebruiken, de band moet vlot rond de voet kunnen getrokken worden en vervolgens via het spansysteem met de draden aangespannen worden. Vervolgens kan de sensor op een eenvoudige manier op de band worden geklikt.
 
+## Kritische reflectie
+
+Tijdens het eerste semester hebben we aanzienlijke vooruitgang geboekt, waarbij we vijf gebruikerstesten hebben uitgevoerd die ons waardevolle inzichten hebben opgeleverd. Over het algemeen is de doelgroep tevreden met de prototypes.
+
+![test1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/28de6216-528b-4040-9bf0-9a4c353a0640)
+![test2](https://github.com/TomDD04/UCD_SEM1/assets/159797493/6ad2c394-b897-46cd-8b40-6dd11e00a269)
+![test3](https://github.com/TomDD04/UCD_SEM1/assets/159797493/34af096f-2af2-4e04-84f8-0ad90de63ecd)
+
+Uit de testen bleek dat hardlopers een positief gevoel hadden over het nieuwe pod-hoesje. Ondanks dat het hechtingsysteem nog niet volledig was afgerond, ervaren mensen geen enkelband-gevoel. De pod zit nu al vrij stevig vast, waardoor gebruikers zich comfortabel en op hun gemak voelen tijdens het hardlopen.
+
+![test4](https://github.com/TomDD04/UCD_SEM1/assets/159797493/223245f2-1275-448c-b273-613e28e9b44c)
+![test5](https://github.com/TomDD04/UCD_SEM1/assets/159797493/d60222ca-7633-4052-8f7e-897bd77094d8)
+
+Helaas bieden de veters zelf niet voldoende licht, waardoor ze overdag praktisch nutteloos zijn. We hebben hieruit geleerd dat we moeten overwegen om een ander feedbacksysteem te gebruiken, en als we met lampjes werken, moeten we kiezen voor iets sterker en dichter bij het gezichtsveld.
+
+Wat betreft het app-interface was het succesvol, maar gebruikers hadden het gevoel dat gamificatie onnodig was en niet goed paste bij de pod zelf. Terwijl de pod mensen helpt om voorzichtiger en trager te lopen, spoort de app hen aan om langere afstanden af te leggen. In het komende semester zullen we daarom meer focussen op het sociaal aspect van de app en minder op de gamificatie.
+
 ## Bill of materials
 
 Voor de eerste prototypes was de productiekost relatief laag en werd er weinig materiaal gebruikt. In het algemeen werden volgende kostelijke materialen vervaardigd:
 
 •	PLA voor het pod housje
 •	Lichtgevende veters (Leuke Led Schoenveters Met Kleur! - Blauw - Veter - Lace - Strikken – Kleur)
-
-## Kritische reflectie
-
-Tijdens het eerste semester hebben we aanzienlijke vooruitgang geboekt, waarbij we vijf gebruikerstesten hebben uitgevoerd die ons waardevolle inzichten hebben opgeleverd. Over het algemeen is de doelgroep tevreden met de prototypes.
-
-Uit de testen bleek dat hardlopers een positief gevoel hadden over het nieuwe pod-hoesje. Ondanks dat het hechtingsysteem nog niet volledig was afgerond, ervaren mensen geen enkelband-gevoel. De pod zit nu al vrij stevig vast, waardoor gebruikers zich comfortabel en op hun gemak voelen tijdens het hardlopen.
-
-Helaas bieden de veters zelf niet voldoende licht, waardoor ze overdag praktisch nutteloos zijn. We hebben hieruit geleerd dat we moeten overwegen om een ander feedbacksysteem te gebruiken, en als we met lampjes werken, moeten we kiezen voor iets sterker en dichter bij het gezichtsveld.
-
-Wat betreft het app-interface was het succesvol, maar gebruikers hadden het gevoel dat gamificatie onnodig was en niet goed paste bij de pod zelf. Terwijl de pod mensen helpt om voorzichtiger en trager te lopen, spoort de app hen aan om langere afstanden af te leggen. In het komende semester zullen we daarom meer focussen op het sociaal aspect van de app en minder op de gamificatie.
 
 ## Bijlagen
 
