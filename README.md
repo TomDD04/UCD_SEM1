@@ -31,7 +31,8 @@ Uit onderzoek van de UGent blijkt dat veel blessures ontstaan door een verkeerde
 3.	Gebruikers ontvangen geen directe feedback tijdens hun looptocht, waardoor de informatie van de Pod te laat komt en ze hun loopstijl niet kunnen aanpassen op basis van de gemeten gegevens.
 4.	De data die de Pod verzamelt is nog te technisch en soms moeilijk te begrijpen voor de gewone gebruiker. Bovendien heeft de bijbehorende app een eenvoudige interface die mensen niet aanspreekt.
    
-Tijdens het eerste semester hebben we voornamelijk onderzoek gedaan naar de oorzaken van blessures en hoe bestaande producten op de markt met deze problemen omgaan. We hebben verschillende producten geanalyseerd en interviews afgenomen met de doelgroep om hun loopgewoonten te begrijpen.
+> [!NOTE]
+>Tijdens het eerste semester hebben we voornamelijk onderzoek gedaan naar de oorzaken van blessures en hoe bestaande producten op de markt met deze problemen omgaan. We hebben verschillende producten geanalyseerd en interviews afgenomen met de doelgroep om hun loopgewoonten te begrijpen.
 
 Vervolgens hebben we ons eigen hoesje voor de Pod ontworpen, waardoor de band er minder ongewenst uitziet en eerder een warm en aantrekkelijk gevoel geeft. Met het nieuwe ontwerp van de band ervaren mensen minder snel een beperkt gevoel.
 
@@ -140,19 +141,19 @@ Wat betreft het app-interface was het succesvol, maar gebruikers hadden het gevo
 
 ## Bijlagen
 
-Bijlage A: gebruikte knowledge-templates
+**Bijlage A**: gebruikte knowledge-templates
 https://docs.google.com/document/d/1rDu2gdkoHxkqSsNqnPOpQ2U_P_NGA_d6gZlB2F06aVY/edit#heading=h.8syluf546kvd
 
-Bijlage B: Loopblessures: analyse en preventie
+**Bijlage B**: Loopblessures: analyse en preventie
 https://docs.google.com/document/d/1rNbRdzK3xAhq7m1gRGFKTgJ77XimaPN4Fm9anGRT7LU/edit#heading=h.uext8cud7kds
 
-Bijlage C: Benchmarking en marktonderzoek
+**Bijlage C**: Benchmarking en marktonderzoek
 https://docs.google.com/document/d/1eg9YsUrmO5p4hKGCMQCGX8X-lHcUrT4yTPxNtBrPRVE/edit#heading=h.48kv42bgtumf 
 
-Bijlage D: Interview resultaten rond loopgewoontes
+**Bijlage D**: Interview resultaten rond loopgewoontes
 https://docs.google.com/document/d/1lbEFYFDsraSsWYgn2hRCkcjhlhi-P3Uz0ADOGBdn-fw/edit#heading=h.a8kdqbn9o3rd 
 
-Bijlage E: Figma document
+**Bijlage E**: Figma document
 https://www.figma.com/file/ydLDrIaGCsD59FRvt96hYe/Fima-opdracht?type=design&node-id=1-311&mode=design&t=FrW7WN5HKXfvIHyC-0
 
 ## Bronnen
