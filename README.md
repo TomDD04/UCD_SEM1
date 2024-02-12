@@ -4,7 +4,6 @@
 *Projectteam: Tom De Deyn; Emile Delanote*
 
 25/01/2024
-<img src="C:\Emile\Ugent\Gebruiksgericht ontwerpen\images_tussentijds_rapport.png">
 ![voorpagina](https://github.com/TomDD04/UCD_SEM1/assets/159797493/f7cfc2f7-1c8e-4312-aa19-5863d3c9ca22)
 
 
@@ -24,6 +23,8 @@ Deze problemen zijn systematisch geanalyseerd geweest via interviews, benchmarki
 
 Met deze oplossingen beoogt Ontrax de gebruikerservaring te verbeteren en de functionaliteit van de pod effectiever te maken.
 
+![nieuwhoesje_sensor](https://github.com/TomDD04/UCD_SEM1/assets/159797493/e20ffdd2-6783-4847-aa9e-83bbc0d595a4)
+
 ## Introductie
 Uit onderzoek van de UGent blijkt dat veel blessures ontstaan door een verkeerde of ongezonde loopstijl. Het bedrijf Ontracx heeft dit probleem aangepakt door gebruik te maken van een geavanceerde sensor, de Movesense Pod, die schokken door de scheenbenen kan meten. Wanneer de schokken te groot worden, kan dit leiden tot blessures. Echter, tijdens ons onderzoek merkten wij enkele problemen met dit product op:
 1.	De Pod lijkt te veel op een enkelband. Hierdoor ervaren gebruikers een gevoel van beperking en zelfs schaamte, omdat anderen mogelijks verkeerde gedachten over hen hebben.
@@ -40,14 +41,16 @@ Bovendien hebben we met lichtgevende veters een eenvoudige manier gevonden om lo
 
 Tot slot hebben we onze eigen app ontworpen die de verzamelde gegevens in de toekomst gedetailleerder en aantrekkelijker zal weergeven. Het nieuwe app-interface is gebruiksvriendelijker en esthetisch aantrekkelijker, waardoor gebruikers gemakkelijker informatie van de Pod kunnen aflezen. Ook zal er een AI-bot worden toegevoegd zodat de gebruiker na de loopsessie kan communiceren over zijn gevoelens die hij/zij ondervond tijdens het lopen. Op deze manier kan de dokter of kinesist achteraf te weten komen hoe de patiënt zich exact voelde.
 
+![pagina_4](https://github.com/TomDD04/UCD_SEM1/assets/159797493/12ace9b8-7d09-4de0-b530-48838a2b5cbe)
 
 ## Methdologie
+
+![methodologie](https://github.com/TomDD04/UCD_SEM1/assets/159797493/39e0ebc7-583b-4965-b34a-51701d328078)
 
 We hebben onze planning sterk gebaseerd op het New Product Development (NPD) proces en de Technology Readiness Level (TRL) uitdagingen. In de eerste zeven weken was het hoofddoel om zoveel mogelijk te leren. We hebben ons specifiek gericht op de runnersworld, waarbij we verschillende hardlooptools op de markt hebben gedocumenteerd en persoonlijke interviews hebben gehouden met amateurlopers. De resultaten van deze fase, met een diepgaande bespreking van de oorzaken van blessures en problemen met bestaande tools, zijn gedetailleerd beschreven in de discovery fase.
 In week 8 zijn we overgegaan naar het zoeken naar oplossingen voor de vastgestelde problemen. Stap voor stap hebben we via morfologische kaarten en schetsen gezocht naar oplossingen voor de geïdentificeerde problemen. Hierbij hebben we gebruikgemaakt van onderstaande knowledge templates (zie bijlage A):
 
-
-
+![knowledge_templates](https://github.com/TomDD04/UCD_SEM1/assets/159797493/5f66a97f-4ee2-4a07-a91f-ecc45e291560)
  
 Tijdens de periode van week 9 tot 11 hebben we de gekozen oplossingen verder uitgewerkt door prototypes te maken. Als eerste stap hebben we een nieuwe “enkelband” ontworpen, aangezien bij de vorige versie de pod moeilijk van de enkelband afging. Daarnaast hebben we lichtgevende veters aangeschaft en met behulp van het programma ProtoPie een app ontwikkeld die de data van de pod kan weergeven.
 Tot slot hebben we onze prototypes meegenomen naar de doelgroep om te evalueren wat zij ervan vonden. Voor alle interviews en gebruikerstesten werd een vorm van toestemming ingevuld, en er werd beeldmateriaal verzameld ter ondersteuning van de evaluaties.
@@ -77,6 +80,10 @@ We hebben heel veel verschillende methodes/systemen gevonden en bedacht om de se
 -	Een sok waarop de sensor al is bevestigd.
 -	Een systeem dat draden opspant door ze op te rollen.
 -	Een klicksysteem gemaakt uit PLA met de 3D printer.
+![voorbeeld1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/5048a159-42da-48e1-b67c-f56cf338cca1)
+![voorbeeld2](https://github.com/TomDD04/UCD_SEM1/assets/159797493/bf156656-c18f-42f2-b6be-d1f55b88493c)
+![voorbeeld3](https://github.com/TomDD04/UCD_SEM1/assets/159797493/a0520c45-dd01-4497-8efd-f374677948f6)
+
 
 Er werden ook mogelijke feedbacksystemen gevonden;
 
@@ -108,6 +115,8 @@ We wilden aan de hand van een open innovatietrechter één systeem kiezen dat on
 Alle methodes die gevonden werden, werden op een rijtje gezet en er werd gekeken naar hoe makkelijk het is voor ons, als student, om dat systeem na te maken of te maken in het algemeen. Daaruit bleek dat enkele systemen toch moeilijk te realiseren waren op ons niveau. Een van deze methodes was het gebruik van de plakkers want deze zijn moeilijk na te maken en aan de andere kant is het ook niet zo ecologisch dus dit idee werd geschrapt. Een sensor die verwerkt is in een sok zal minder goeie resultaten bieden doordat het niet zo strak rond het been gespannen is.
 Het gemakkelijkste idee als student is uiteraard het kliksysteem gemaakt uit PLA met de 3D printer, hierin zijn we heel vrij en konden we heel veel mogelijkheden construeren. Dit in combinatie met het spansysteem met de kabels kan zorgen voor een goed resultaat.
 
+![boasysteem](https://github.com/TomDD04/UCD_SEM1/assets/159797493/87808d1a-6cc9-4a0d-a5a4-f734749eef4d)
+
 Bij het feedback systeem konden we ook direct enkele methodes/systemen schrappen door naar gebruikers toe te stappen en te ondervinden wat hun mening was. Zo was de elektrische schok, de geur plakker, het geruis en het verhogen of verlagen van de muziek niet aangenaam voor de gebruiker. Een band rond het been was ook geen ideale oplossing aangezien hier veel krachten worden op uitgeoefend tijdens het lopen wat dus zorgt voor het loskomen van de band. Er is dus besloten om verder te gaan met de lichtgevende veters en de band rond de arm of het lichtgevend horloge. Al snel werd duidelijk dat de lichtgevende veters in klaarlichte dag geen succes was. 
 De app met alle informatie wordt sowieso behouden, er wordt zelfs een extra tool toegevoegd, zo kan je chatten met een AI-bot over je gevoelens die je ervaarde tijdens het lopen. Deze AI-bot slaagt direct deze gegevens op zodat de kinesist of dokter achteraf kan zien hoe de patiënt zich voelde.
 
@@ -116,7 +125,15 @@ De app met alle informatie wordt sowieso behouden, er wordt zelfs een extra tool
 Voor de bevestigingsmethode van de sensor zijn we tot een eerste resultaat gekomen om de essentie van het kleurgebruik, de vorm en het click-systeem aan de gebruiker weer te geven. 
 Dit is ge-3D-print en vervolgens verwarmd met een haardroger en vervormd met behulp van een cilindervormig object. Het click-systeem werd getest bij verschillende gebruikers maar het bleek dat het voor sommigen iets te moeilijk was om de sensor erin en eruit te halen. Dit is vervolgens opgelost geweest door de nodige aanpassingen te doen en opnieuw te printen en te buigen. Het spansysteem met de draden gaan we komend semester hierop proberen toepassen.
 
+![geprint_bandje_1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/8721fa93-22d8-48d2-9553-45675985c5f9)
+![geprint_bandje_1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/bc47cda6-e406-47cf-995b-800e0067b349)
+
+
+
+
 Als feedbacksysteem wordt er gekozen voor de app met alle informatie waar je kan chatten met een AI-bot en voor de band rond de bovenarm. De lichtgevende veters zullen achterwege gelaten worden maar er zal wel gebruik gemaakt worden van lichtjes.
+
+![app_interface](https://github.com/TomDD04/UCD_SEM1/assets/159797493/06ee3388-69fa-4707-a216-eb63497b87cb)
 
 ### Conclusies & implicaties
 
