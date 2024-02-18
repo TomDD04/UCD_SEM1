@@ -4,8 +4,8 @@
 *Projectteam: Tom De Deyn; Emile Delanote*
 
 25/01/2024
-![voorpagina](https://github.com/TomDD04/UCD_SEM1/assets/159797493/f7cfc2f7-1c8e-4312-aa19-5863d3c9ca22)
 
+![voorpagina](https://github.com/TomDD04/UCD_SEM1/assets/159797493/f7cfc2f7-1c8e-4312-aa19-5863d3c9ca22)
 
 ## Samenvatting
 
