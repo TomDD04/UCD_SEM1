@@ -158,8 +158,10 @@ Wat betreft het app-interface was het succesvol, maar gebruikers hadden het gevo
 
 Voor de eerste prototypes was de productiekost relatief laag en werd er weinig materiaal gebruikt. In het algemeen werden volgende kostelijke materialen vervaardigd:
 
-•	PLA voor het pod housje
-•	Lichtgevende veters (Leuke Led Schoenveters Met Kleur! - Blauw - Veter - Lace - Strikken – Kleur)
+-  PLA voor het pod housje
+-  Lichtgevende veters (Leuke Led Schoenveters Met Kleur! - Blauw - Veter - Lace - Strikken – Kleur)
+-  Aanspanbaar systeem
+-  Controleerbare led
 
 ## Bijlagen
 
