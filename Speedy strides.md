@@ -147,11 +147,27 @@ Eerst hebben we aan de hand van de ANSUR II tabel Antrometrische data gevonden v
 
 Al snel werd duidelijk dat dit niet de waarden waren die wij nodig hebben in ons project. Wij hebben namelijk de diamter van het scheenbeen, gelegen tussen de enkel en de kuit, nodig om ons prototype te maken. Na veel opzoek werk zijn we er niet in geslaagd om een reeds gemten gemiddelde waarden van te vinden. We hebben besloten om zelf aan de slag te gaan met meten. Hieronder vind u de tot nu gemeten waarden van mannen en vrouwen rond de 20. Het is de bedoeling nog meer waarden van verschillende leeftijden te verkrijgen.
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/0ba19272-14ac-4571-9f61-16aa178d861f)
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/0ba19272-14ac-4571-9f61-16aa178d861f) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/6c0d139f-16c4-463f-b814-b406b51163a0)
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/a5ddf6e6-6243-4dc4-8bf5-604d2a5d62c9)
 
 Bij de reeds gemeten groep zou er een minimum diameter (losse spanning) van 19.5cm nodig zijn en een maximum van 27cm.
+
+Vervolgens hebben we gekeken in Siemens NX hoe eenvoudig de gebruiker de band kan aandoen. Als eerst werd gekeken als de gebruiker gehurkt de band probeert aan te doen. De max reach zone en comfort tabel werd vervolgens bepaald.
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/11645b65-437f-4a26-a605-424f734a23f9) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/e43fca52-4d39-4b0b-aea3-b4afc8505849) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c157089d-a9f1-4d19-a8e5-e084057a389d)
+
+Het zelfde werd gedaan in zittende toestand:
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/ad100e47-8c59-4e90-9c69-224dd078c7f2) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c6e67085-7328-45c7-8f49-b2b448756c0b) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/3821ee84-f62f-43ef-b8bf-93217fd50dfa) 
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/88a175c2-ae16-48d9-92a7-2e7d49c02d20) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c867a4b9-4106-469e-88ee-7527efe3d7a9)
+
+
+
+
+
+
+
+
 
 ## Prototyping
 ### Testen met gebruikers
