@@ -137,6 +137,23 @@ Als feedbacksysteem wordt er gekozen voor de app met alle informatie waar je kan
 
 Bij dit systeem zijn we vooral uitgegaan van het gemak van de gebruiker. Het is de bedoeling dat de gebruiker dit product snel en gemakkelijk kan gebruiken, de band moet vlot rond de voet kunnen getrokken worden en vervolgens via het spansysteem met de draden aangespannen worden. Vervolgens kan de sensor op een eenvoudige manier op de band worden geklikt.
 
+## Development
+### Antropometrie
+Eerst hebben we aan de hand van de ANSUR II tabel Antrometrische data gevonden voor de dikte van de gemiddelde enkel voor zowel mannen als vrouwen tussen 18 en 65 jaar. Uit onderstaande grafiek konden we aflezen dat de gemiddelde scheenbeenomtrek 312mm bedraagt. Als de band voor iedereen tussen de percentielen p5 en p95 moet passen zullen we een band moeten ontwerpen die afmetingen tussen 275 en 352 mm kan aannemen. 
+Merk op dat deze data uit de data van het USA leger komt. We nemen aan dat deze data zeer gelijkaardig is voor de Belgische bevolking. 
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/b5971f76-98ba-4b5c-9d3d-2d30332a629a)
+
+Al snel werd duidelijk dat dit niet de waarden waren die wij nodig hebben in ons project. Wij hebben namelijk de diamter van het scheenbeen, gelegen tussen de enkel en de kuit, nodig om ons prototype te maken. Na veel opzoek werk zijn we er niet in geslaagd om een reeds gemten gemiddelde waarden van te vinden. We hebben besloten om zelf aan de slag te gaan met meten. Hieronder vind u de tot nu gemeten waarden van mannen en vrouwen rond de 20. Het is de bedoeling nog meer waarden van verschillende leeftijden te verkrijgen.
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/0ba19272-14ac-4571-9f61-16aa178d861f)
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/a5ddf6e6-6243-4dc4-8bf5-604d2a5d62c9)
+
+Bij de reeds gemeten groep zou er een minimum diameter (losse spanning) van 19.5cm nodig zijn en een maximum van 27cm.
+
+## Prototyping
+
 ## Kritische reflectie
 
 Tijdens het eerste semester hebben we aanzienlijke vooruitgang geboekt, waarbij we vijf gebruikerstesten hebben uitgevoerd die ons waardevolle inzichten hebben opgeleverd. Over het algemeen is de doelgroep tevreden met de prototypes.
