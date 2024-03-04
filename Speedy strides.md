@@ -140,7 +140,8 @@ Bij dit systeem zijn we vooral uitgegaan van het gemak van de gebruiker. Het is 
 ## Development
 ### Antropometrie
 Eerst hebben we aan de hand van de ANSUR II tabel Antrometrische data gevonden voor de dikte van de gemiddelde enkel voor zowel mannen als vrouwen tussen 18 en 65 jaar. Uit onderstaande grafiek konden we aflezen dat de gemiddelde scheenbeenomtrek 312mm bedraagt. Als de band voor iedereen tussen de percentielen p5 en p95 moet passen zullen we een band moeten ontwerpen die afmetingen tussen 275 en 352 mm kan aannemen. 
-Merk op dat deze data uit de data van het USA leger komt. We nemen aan dat deze data zeer gelijkaardig is voor de Belgische bevolking. 
+> [!NOTE]
+>Merk op dat deze data uit de data van het USA leger komt. We nemen aan dat deze data zeer gelijkaardig is voor de Belgische bevolking. 
 
 ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/b5971f76-98ba-4b5c-9d3d-2d30332a629a)
 
@@ -153,6 +154,8 @@ Al snel werd duidelijk dat dit niet de waarden waren die wij nodig hebben in ons
 Bij de reeds gemeten groep zou er een minimum diameter (losse spanning) van 19.5cm nodig zijn en een maximum van 27cm.
 
 ## Prototyping
+### Testen met gebruikers
+Het reeds ontwerpen bandje gemaakt uit PLA zijn we gaan tseten bij verschillende gebruiken om te horen en te zien wat ze er van vonden. Of het concept logisch en handig is, of het aangenaam zit en eenvoudig te plaatsen is, er zaken veel beter kunnen...
 
 ## Kritische reflectie
 
