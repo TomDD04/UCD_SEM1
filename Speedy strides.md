@@ -178,6 +178,7 @@ Er kon rap geconcludeerd worden dat de gebruiker niet wist waar de band geplaats
 > "Jha, en eueuhhmm... waar en hoe moet ik dat juist hangen he?"
 
 Voor elke testfase wordt er een testprotocol uitgeschreven; wordt vervolgd...
+
 Na het testen wordt gevraagd aan de gebruiker een analyse te maken van het zojuist gebruikte product; wordt vervolgt...
 
 
