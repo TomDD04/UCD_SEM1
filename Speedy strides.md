@@ -145,14 +145,14 @@ Eerst hebben we aan de hand van de ANSUR II tabel Antrometrische data gevonden v
 
 ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/b5971f76-98ba-4b5c-9d3d-2d30332a629a)
 
-Al snel werd duidelijk dat dit niet de waarden waren die wij nodig hebben in ons project. Wij hebben namelijk de diamter van het scheenbeen, gelegen tussen de enkel en de kuit, nodig om ons prototype te maken. Na veel opzoek werk zijn we er niet in geslaagd om een reeds gemten gemiddelde waarden van te vinden. We hebben besloten om zelf aan de slag te gaan met meten. Hieronder vind u de tot nu gemeten waarden van mannen en vrouwen rond de 20. Het is de bedoeling nog meer waarden van verschillende leeftijden te verkrijgen.
+Al snel werd duidelijk dat dit niet de waarden waren die wij nodig hebben in ons project. Wij hebben namelijk de omtrek van het scheenbeen, gelegen tussen de enkel en de kuit, nodig om ons prototype te maken. Na veel opzoek werk zijn we er niet in geslaagd om reeds gemeten gemiddelde waarden te vinden. We hebben besloten om zelf aan de slag te gaan met meten. Hieronder vind u de tot nu gemeten waarden van mannen en vrouwen rond de 20. Het is de bedoeling nog meer waarden van verschillende leeftijden te verkrijgen.
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/0ba19272-14ac-4571-9f61-16aa178d861f) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/6c0d139f-16c4-463f-b814-b406b51163a0)
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c354a7da-3e3f-4cd0-a3a4-1754719a497d) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/558d0c2f-7d4b-499e-b9c1-3bc068aae6ba)
 
 
 Bij de reeds gemeten groep zou er een minimum diameter (losse spanning) van 19.5cm nodig zijn en een maximum van 27cm.
 
-Vervolgens hebben we gekeken in Siemens NX hoe eenvoudig de gebruiker de band kan aandoen. Als eerst werd gekeken als de gebruiker gehurkt de band probeert aan te doen. De max reach zone en comfort tabel werd vervolgens bepaald.
+Vervolgens hebben we gekeken in Siemens NX hoe eenvoudig de gebruiker (gemiddelde 25 jarige man) de band kan aandoen. Als eerst werd gekeken als de gebruiker gehurkt de band probeert aan te doen. De max reach zone en comfort tabel werd vervolgens bepaald.
 ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/11645b65-437f-4a26-a605-424f734a23f9) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/e43fca52-4d39-4b0b-aea3-b4afc8505849) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c157089d-a9f1-4d19-a8e5-e084057a389d)
 
 Het zelfde werd gedaan in zittende toestand:
@@ -161,30 +161,43 @@ Het zelfde werd gedaan in zittende toestand:
 
 ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/88a175c2-ae16-48d9-92a7-2e7d49c02d20) ![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c867a4b9-4106-469e-88ee-7527efe3d7a9)
 
-
-
-
-
-
-
+Doordat het vrij moeilijk was om de exacte houding vast te leggen is de desbetreffende data niet optimaal voor gebruik. Tijdens het modelleren kwamen we wel op het idee om er voor te zorgen dat de pod lang bovenaf in het bandje kan geschoven in plaats van langs de zijkant. Hierdoor zou de pod misschien iets makkelijker in en uit te schuiven zijn. Dit moeten we later nog uit testen halen.
 
 
 ## Prototyping
 ### Testen met gebruikers
-Het reeds ontwerpen bandje gemaakt uit PLA zijn we gaan tseten bij verschillende gebruiken om te horen en te zien wat ze er van vonden. Of het concept logisch en handig is, of het aangenaam zit en eenvoudig te plaatsen is, er zaken veel beter kunnen...
-
-## Kritische reflectie
-
-Tijdens het eerste semester hebben we aanzienlijke vooruitgang geboekt, waarbij we vijf gebruikerstesten hebben uitgevoerd die ons waardevolle inzichten hebben opgeleverd. Over het algemeen is de doelgroep tevreden met de prototypes.
+Het reeds ontwerpen bandje gemaakt uit PLA zijn we gaan testen bij verschillende gebruikers om te horen en te zien wat ze tot nu toe van het concept vonden. Of het concept logisch en handig is, of het aangenaam zit en eenvoudig te plaatsen is, of er zaken beter kunnen...
 
 ![test1](https://github.com/TomDD04/UCD_SEM1/assets/159797493/28de6216-528b-4040-9bf0-9a4c353a0640)
 ![test2](https://github.com/TomDD04/UCD_SEM1/assets/159797493/6ad2c394-b897-46cd-8b40-6dd11e00a269)
 ![test3](https://github.com/TomDD04/UCD_SEM1/assets/159797493/34af096f-2af2-4e04-84f8-0ad90de63ecd)
-
-Uit de testen bleek dat hardlopers een positief gevoel hadden over het nieuwe pod-hoesje. Ondanks dat het hechtingsysteem nog niet volledig was afgerond, ervaren mensen geen enkelband-gevoel. De pod zit nu al vrij stevig vast, waardoor gebruikers zich comfortabel en op hun gemak voelen tijdens het hardlopen.
-
 ![test4](https://github.com/TomDD04/UCD_SEM1/assets/159797493/223245f2-1275-448c-b273-613e28e9b44c)
 ![test5](https://github.com/TomDD04/UCD_SEM1/assets/159797493/d60222ca-7633-4052-8f7e-897bd77094d8)
+
+Er kon rap geconcludeerd worden dat de gebruiker niet wist waar de band geplaatst moest worden. Nadat we een goed spansysteem hebben gemaakt dat ervoor zorgt dat de band op dezelfde plaats blijft hangen gaan we ons verdiepen in duidelijke instructies voor de gebruikers.
+> "Jha, en eueuhhmm... waar en hoe moet ik dat juist hangen he?"
+
+Voor elke testfase wordt er een testprotocol uitgeschreven; wordt vervolgd...
+Na het testen wordt gevraagd aan de gebruiker een analyse te maken van het zojuist gebruikte product; wordt vervolgt...
+
+
+### Spansysteem
+Met behulp van een zelfcontroleerbaar spansysteem willen we ervoor proberen zorgen dat de band strak genoeg rond het scheenbeen hangt en ook gemakkelijk terug los te maken is.
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c36ea6ae-2338-491c-9cd9-2b8df0ed4612)
+
+## Design requirements
+Tijdens het proces zal er rekening gehouden worden met verschillende eisen waarnaar gestreefd moet worden om een zo goed mogelijk eindproduct te leveren. Een aantal eisen zijn nog onbekend of onduidelijk, maar doorheen het proces is het de bedoeling deze zorgvuldig uit te schrijven en vervolgens te volbrengen.
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/c3d685ea-7dc6-44f1-96a5-d4ffa3852a4f)
+> [!NOTE]
+>Het groene is reeds onderzocht en het rode en gele moeten nog gevraagd worden uit ontwerpinterviews. Deze kleuren zijn tijdelijk.
+
+
+## Kritische reflectie
+
+Tijdens het eerste semester hebben we aanzienlijk veel vooruitgang geboekt, waarbij we vijf gebruikerstesten hebben uitgevoerd die ons waardevolle inzichten hebben opgeleverd. Over het algemeen is de doelgroep tevreden met de prototypes.
+
+Uit de testen bleek dat hardlopers een positief gevoel hadden over het nieuwe pod-hoesje. Ondanks dat het hechtingsysteem nog niet volledig was afgerond, ervaren mensen geen enkelband-gevoel. De pod zit nu al vrij stevig vast, waardoor gebruikers zich comfortabel en op hun gemak voelen tijdens het hardlopen.
 
 Helaas bieden de veters zelf niet voldoende licht, waardoor ze overdag praktisch nutteloos zijn. We hebben hieruit geleerd dat we moeten overwegen om een ander feedbacksysteem te gebruiken, en als we met lampjes werken, moeten we kiezen voor iets sterker en dichter bij het gezichtsveld.
 
