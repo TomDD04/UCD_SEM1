@@ -1,7 +1,9 @@
 # Speedy strides
 
 
-<p style="text-align: center;">Oplossingen zoeken om op een gebruiksvriendelijke manier  blessures te verminderen bij lopers. </p>
+<p style="text-align: center;">Oplossingen zoeken om op een gebruiksvriendelijke manier  blessures te verminderen bij lopers. </p>   
+<p style="text-align: center;">Sample text with center alignment</p>   
+
 *Projectteam: Tom De Deyn; Emile Delanote*
 
 25/01/2024
