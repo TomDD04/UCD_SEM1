@@ -1,5 +1,8 @@
 # Speedy strides
-*Oplossingen zoeken om op een gebruiksvriendelijke manier  blessures te verminderen bij lopers.* 
+
+<p style="text-align: center;">
+   *Oplossingen zoeken om op een gebruiksvriendelijke manier  blessures te verminderen bij lopers.* 
+</p>
 
 *Projectteam: Tom De Deyn; Emile Delanote*
 
