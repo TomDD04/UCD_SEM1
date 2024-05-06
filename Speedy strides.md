@@ -10,6 +10,8 @@
 
 ![voorpagina](https://github.com/TomDD04/UCD_SEM1/assets/159797493/f7cfc2f7-1c8e-4312-aa19-5863d3c9ca22)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FnHCkFPa0VR0f8P6RplQJpI%2FRunning-app-2%3Ftype%3Ddesign%26mode%3Ddesign%26t%3DoXZNgBzvVaYkt65N-1" allowfullscreen></iframe>
+
 ## Samenvatting
 
 Het bedrijf Ontrax heeft een pod ontwikkeld die schokken door de benen kan meten via een kleine, op het scheenbeen geplaatste sensor. Echter, er zijn nog enkele problemen geconstateerd in hun ontwerp:
