@@ -21,6 +21,8 @@ Deze problemen zijn systematisch geanalyseerd geweest via interviews, benchmarki
 4.	Een geavanceerde app die de verzamelde data op een begrijpelijke en aantrekkelijke manier presenteert, met een interface die gebruikers aanspreekt. Door met een persoonlijke AI te werken zal de gebruiker op elk moment informatie kunnen vragen over zijn runs of loop strategieën waardoor hij de informatie van de sensor beter zal verstaan.
    
 Met deze oplossingen zijn we er van overtuigt dat we het product van Ontrax sterk kunnen verbeteren.
+![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/4d119a2b-51fa-4ed9-abc3-6039029457da)
+
 
 <p>
   <img src="/images/concept render zij.png" width="49%"/>
