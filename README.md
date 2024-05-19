@@ -28,12 +28,27 @@ Met deze oplossingen zijn we er van overtuigt dat we het product van Ontrax ster
 
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+
+Zoals eerder vermeld in de samenvatting werd opgemerkt dat de gebruiker soms negatieve gevoelens krijgt bij het gebruiken van de sensor en app die het bedrijf Ontrax aanbied. We zijn er van overtuigt dat de gebruiker zich niet honderd procent kan inleven tijdens het lopen aangezien de sensor.
+Bij het dragen van de sensor merkten we dat mensen zich ongemakkelijk voelden uit angst dat de sensor uit het bandje zou vallen. Dit is ook een logische reactie aangezien op het eerste zicht de pod niet echt vast lijkt te zitten. Dit lossen we op door een herkenbaarder en eenvoudiger systeem toe te passen waarbij het duidelijk is wanneer de sensor vast zit in de band. Met onze nieuwe sensorbandje kunnen we ook meer personalisatie toevoegen zoals kleur en vorm die er voor zorgen dat de gebruiker meer plezier vind bij het dragen. Onze doelstelling hierbij is om er voor te zorgen dat de pod niet loskomt van de band na lange runs bij grote pasfrequenties en hevige suroundings, zoals bossen of heuvels.
+De gebruiker moet natuurlijk gewaarschuwd worden als de belasting op zijn benen te groot word. Het eindproduct zal op een aangename maar duidelijke manier de loper verwittigen wanneer de schokken door zijn benen veranderen. 
+Als laatst is het belangrijk dat al de informatie van de sensor op een duidelijke manier wordt opgeslagen binnen een databank die makkelijk accessibel is voor de gebruiker. Hierbij maken we gebruik van een eenvoudige app. De goal is om een app-interface te ontwerpen die de loper moeiteloos kan gebruiken zonder enige frustraties of onduidelijkheden.
+Meer over onze design requirements zijn te vinden binnen de discovery fase.
+
 
 ## Methdologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+
+<p align="center">
+  <img width="100%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/d91b6950-7a2f-4cde-8bcf-f76a0020c21a">
+</p>
+
+
+We hebben onze planning sterk gebaseerd op het New Product Development (NPD) proces. In de eerste zeven weken was het hoofddoel om zoveel mogelijk te leren. We hebben ons specifiek gericht op de runnersworld, waarbij we verschillende hardlooptools op de markt hebben gedocumenteerd en persoonlijke interviews hebben gehouden met amateurlopers. Deze research fase staat uitgebreid uitgelegd in de discovery fase binnen ons project.
+Om de probleemruimte aan te kaarten werd gebruik gemaakt van de 5 knowledge templates, hieronder weergeven. Binnen de discovery fase zullen we uitgebreid een aantal van deze technieken bespreken. 
+
+<p align="center">
+  <img width="60%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/3103a6a8-4de4-4375-af2c-88cd80151a41">
+</p>
 
 ## Discovery
 Max. 1000 woorden
@@ -124,7 +139,9 @@ De app is opgedeeld in 4 verschillende delen:
 
 Merk op dat alle interfaces met elkaar verbonden zijn voor een soepel gebruik. De app is getest via de usability test questions waarbij aan de gebruiker gevraagd werd om een bepaalde taak uit te voeren op de app. Voor meer informatie duidelijke afbeeldingen zie bijlage X.
 
-<img width="823" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/0181cc80-1b62-49fd-a4b8-90c2b4fcca95">
+<p align="center">
+  <img width="80%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/0181cc80-1b62-49fd-a4b8-90c2b4fcca95">
+</p>
 
 ### Het feedbacksysteem
 
@@ -167,16 +184,21 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 ## Bijlagen
 
 Bijlage A: gebruikte knowledge-templates
+
 https://docs.google.com/document/d/1rDu2gdkoHxkqSsNqnPOpQ2U_P_NGA_d6gZlB2F06aVY/edit#heading=h.8syluf546kvd
 
 Bijlage B: Loopblessures: analyse en preventie
+
 https://docs.google.com/document/d/1rNbRdzK3xAhq7m1gRGFKTgJ77XimaPN4Fm9anGRT7LU/edit#heading=h.uext8cud7kds
 
 Bijlage C: Benchmarking en marktonderzoek
+
 https://docs.google.com/document/d/1eg9YsUrmO5p4hKGCMQCGX8X-lHcUrT4yTPxNtBrPRVE/edit#heading=h.48kv42bgtumf 
 
 Bijlage D: Interview resultaten rond loopgewoontes
+
 https://docs.google.com/document/d/1lbEFYFDsraSsWYgn2hRCkcjhlhi-P3Uz0ADOGBdn-fw/edit#heading=h.a8kdqbn9o3rd 
 
 Bijlage E: Figma document
+
 https://www.figma.com/file/ydLDrIaGCsD59FRvt96hYe/Fima-opdracht?type=design&node-id=1-311&mode=design&t=FrW7WN5HKXfvIHyC-0
