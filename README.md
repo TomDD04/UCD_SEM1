@@ -60,6 +60,40 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
+## Devemp
+
+Tijdens deze fase werden prototypes gemaakt die later konden gebruikt worden voor gebruikerstesten om mogelijke pijnpunten binnen het product te situreren. Binnen deze fase focussen we ons op volgende 3 gadgets:
+•	Bevesteging: De sensorband
+•	Feedback: het feedbacksysteem
+•	Begeleiding: de app
+
+Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlag X staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. In bijlage Y staan foto’s en video’s van de gebruikersinterviews.
+
+### De sensorband
+
+Voor de sensorband werd vrij snel duidelijk wat voor een systeem kon gebruikt worden voor het hoesje van de pod. Hierbij werd gekozen voor een eenvoudig kliksysteem.
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/b403787f-b0b2-492b-a2c0-f245cc231227)
+![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/11762ff5-1c41-46e3-84ba-aaca1a6653fa)
+![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/6426eee4-c2f4-45c5-bc01-3f963767bf56)
+
+Vervolgens werd gezocht naar nieuwe hechtingssystemen die de pod stevig bevestigt aan het scheenbeen. Hierbij werden volgende systemen uitgewerkt. Hieronder ook de feedback die naar voren kwam uit de 15 gebruikerstesten.
+
+1.	Boa systeem 1: een stevig aanspansysteem dat gebruikt wordt bij skiboten, voetbalschoenen en arm braces voor een stevige verbinding.
+2.	Boa systeem 2: een geupdate systeem waarbij de gebruiker de band niet volledig over zijn voet moet trekken.
+3.	Rubber band: Uit een fietsband werd een bandje gemaakt om te kijken hoe goed een elastiche band werkt bij de gebruiker
+4.	Velcro band: een systeem dat bekend staat voor zijn stevige en eenvoudige hechting.
+
+<p align="center">
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8d239a7b-fe78-49e6-bb19-76272dc15d24" />
+</p>
+
+Uit de gebruikerstesten werd een inovatrix opgesteld om te beslissen welk systeem het beste was.
+
+![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/1cedb1e7-3bb4-4ff8-bb76-a4d420029f74)
+![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/b91662ab-ec49-45fa-ba88-12b5bb75e425)
+
+
 ## Bill of materials
 - Welk
 - Materiaal
