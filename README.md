@@ -4,7 +4,6 @@
 *Projectteam: Tom De Deyn; Emile Delanote*
 
 25/01/2024
-![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/9fdb2ef6-e590-43c7-8b47-5c974ba46402)
 
 ## Samenvatting
 
@@ -22,13 +21,11 @@ Deze problemen zijn systematisch geanalyseerd geweest via interviews, benchmarki
 4.	Een geavanceerde app die de verzamelde data op een begrijpelijke en aantrekkelijke manier presenteert, met een interface die gebruikers aanspreekt. Door met een persoonlijke AI te werken zal de gebruiker op elk moment informatie kunnen vragen over zijn runs of loop strategieën waardoor hij de informatie van de sensor beter zal verstaan.
    
 Met deze oplossingen zijn we er van overtuigt dat we het product van Ontrax sterk kunnen verbeteren.
-![image](https://github.com/TomDD04/UCD_SEM1/assets/159797493/4d119a2b-51fa-4ed9-abc3-6039029457da)
 
-
-<p>
-  <img src="/images/concept render zij.png" width="49%"/>
-  <img src="/images/concept render close-up.png" width="49%"/>
+<p align="center">
+  <img width="35%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/4d119a2b-51fa-4ed9-abc3-6039029457da">
 </p>
+
 
 ## Introductie
 Max 300 woorden.
@@ -95,7 +92,9 @@ Uit de gebruikerstesten werd een inovatrix opgesteld om te beslissen welk systee
 
 Vervolgens zijn er unieke hoesjes gemaakt die zorgen voor nog meer personalisatie. De hoesjes kunnen dus geproduceerd worden in verschillende vormen en kleuren.
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/6ffdb45f-d50d-45e3-9c9e-e10cd101ec27)
+<p align="center">
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/6ffdb45f-d50d-45e3-9c9e-e10cd101ec27" />
+</p>
 
 Als laatst werd nog een nieuw bandje ontworpen waarbij de velcroband werd gecombineerd met een elastisch bandje voor een stevigere en comfortabelere hechting aan het been. Met dit systeem zijn alle problemen uit de gebruikerstesten opgelost.
 
@@ -113,7 +112,9 @@ De app onderging 3 belangrijke fasen in dit verslag wordt alleen fase 3 besproke
 
 We streven ernaar dat de gebruiker zich volledig kan inleven bij het gebruik van de app. Om dit te bereiken werden 14 verschillende app interfaces ontworpen, elk met een uniek doel om de gebruikservaring te verbeteren.
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/45a820f8-3d2d-4660-b197-05aa8848f7d7)
+<p align="center">
+  <img width="80%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/45a820f8-3d2d-4660-b197-05aa8848f7d7">
+</p>
 
 De app is opgedeeld in 4 verschillende delen:
 1.	Immersion interfaces: In de app zitten alle interfaces die nodig zijn voor een gewone lopersapp verworpen. Dit werd gedaan zodanig dat de gebruiker zich 100% kan inleven tijdens het lopen
@@ -129,25 +130,33 @@ Merk op dat alle interfaces met elkaar verbonden zijn voor een soepel gebruik. D
 
 In de definiton fase werd uitgebreid uitgelegd hoe we op de verschillende ideën zijn gekomen voor het feedback systeem. Uiteindelijk zijn volgende twee systemen uitgewerkt.
 
-<img width="563" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/b11e8d4b-0d16-413c-8698-4c5e55e146f5">
+
+<p align="center">
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/b11e8d4b-0d16-413c-8698-4c5e55e146f5" />
+</p>
 
 Het eerste idee waren lichtgevende veters. Dit idee was op het eerste zicht zeer uniek maar achteraf bleken de veters niet zichtbaar genoeg te zijn en zeker overdag was het gewoon niet zichtbaargenoeg.
 
 Vandaar prototype 2: een lichtgevend bandje dat van kleur veranderd afhankelijk van de schokken door de benen van de loper. Om dit te doen passen we ‘wizard of Oz’-prototyping toe waarbij we vanop afstand de pod van kleur doen veranderen terwijl de gebruiker denkt dat de lichtverandering komt door de pod.
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/6a20d286-4b22-4f29-bb97-e0ae9a4a7d56)
+<p align="center">
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/6a20d286-4b22-4f29-bb97-e0ae9a4a7d56" />
+</p>
 
 Om te testen of het een geslaagd systeem was moesten de gebruikers het bandje aan doen en kijken of het comfortabel aanvoelde en niet te veel afzakte. Vervolgens werd met de afstandsbediening van op afstand de kleuren van de pod veranderd. Er werd gevraagd aan de gebruiker wat dit lichtje voor hun zou betekenen en aan de hand daarvan werd de functionaliteit van het systeem bepaald. Hieronder een tabel met de betekenis volgens de gemiddelde gebruiker van het feedbacksysteem.
 
-<img width="552" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/d324ab6d-83d3-46db-9799-42573ba95c89">
+
+<p align="center">
+  <img width="60%" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/d324ab6d-83d3-46db-9799-42573ba95c89" />
+</p>
 
 Hierbij viel op dat de gebruiker overal dezelfde positieve mening had over de pod. Vandaar dat er hierna geen aanpassingen meer zijn gemaakt aan het systeem.
 
 
 ## Bill of materials
-
-<img width="555" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8f8f5ce7-30e8-45ef-80a6-43597a8f5d2c">
-
+<p align="center">
+  <img width="60%" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8f8f5ce7-30e8-45ef-80a6-43597a8f5d2c" />
+</p>
 
 ## Kritische reflectie
 Max. 500 woorden
@@ -156,3 +165,18 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+
+Bijlage A: gebruikte knowledge-templates
+https://docs.google.com/document/d/1rDu2gdkoHxkqSsNqnPOpQ2U_P_NGA_d6gZlB2F06aVY/edit#heading=h.8syluf546kvd
+
+Bijlage B: Loopblessures: analyse en preventie
+https://docs.google.com/document/d/1rNbRdzK3xAhq7m1gRGFKTgJ77XimaPN4Fm9anGRT7LU/edit#heading=h.uext8cud7kds
+
+Bijlage C: Benchmarking en marktonderzoek
+https://docs.google.com/document/d/1eg9YsUrmO5p4hKGCMQCGX8X-lHcUrT4yTPxNtBrPRVE/edit#heading=h.48kv42bgtumf 
+
+Bijlage D: Interview resultaten rond loopgewoontes
+https://docs.google.com/document/d/1lbEFYFDsraSsWYgn2hRCkcjhlhi-P3Uz0ADOGBdn-fw/edit#heading=h.a8kdqbn9o3rd 
+
+Bijlage E: Figma document
+https://www.figma.com/file/ydLDrIaGCsD59FRvt96hYe/Fima-opdracht?type=design&node-id=1-311&mode=design&t=FrW7WN5HKXfvIHyC-0
