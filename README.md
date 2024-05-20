@@ -24,8 +24,8 @@ Met deze oplossingen zijn we er van overtuigt dat we het product van Ontrax ster
 
 <p align="center">
   <img width="35%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/4d119a2b-51fa-4ed9-abc3-6039029457da">
+  <img width="20%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8f8ae9d2-f571-42e1-b3e8-403f429951a4">
 </p>
-
 
 ## Introductie
 
@@ -51,13 +51,40 @@ Om de probleemruimte aan te kaarten werd gebruik gemaakt van de 5 knowledge temp
 </p>
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+
+De doelstellingen van de Discovery fase voor het sportbandje met een sensor zijn als volgt:
+-	Gebruikersbehoeften Begrijpen: Identificeer en begrijp de behoeften, pijnpunten en verwachtingen van potentiële gebruikers van het sportbandje.
+-	Marktanalyse: Onderzoek de huidige markt voor sportbandjes en sensors om concurrentie, trends en hiaten te identificeren.
+-	Technologische Vereisten: Begrijp de technologische vereisten en beperkingen voor het integreren van een sensor in een sportbandje.
+
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+
+Aan de hand van een expertinterview zijn veel inzichten in de behoeften en ervaringen verkregen van het reeds bestaande bandje van “Movesense”.
+Om de problemen aan te kaarten is gebruikt gemaakt geweest van verschillende knowledge templates (Inovatrix, fishbone-diagram, problem-solution matrix, stat of the art en user model).
+
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+Bij het expertinterview is er meer te weten gekomen hoe ze tot nu toe de druk op de voeten meten bij lopers. Runners lab heeft een geavanceerde loopbaan waar drukplaten zijn in verwerkt waar ze de druk kunnen meten op de voeten. Aan de hand van deze platen kunnen ze exact bepalen hoe de loper zijn voet plaatst en welke zones van de voet de grootste schokken ervaart. Aan de hand van testen ter plaatse kon geconcludeerd worden dat het effectief beter is om met schoenen te lopen dan zonder. Op figuur 1 is de druk op de blote voet te zien, hierbij is duidelijk te zien dat de druk toeneemt bij de hielen. Bij figuur 2 is die druk verspreid over de zool van de schoen.
+
+<p align="center">
+  <img width="100%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8e939a1d-717c-49e3-80a0-c127537a47a5">
+</p>
+
+Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert volkomen normaal. Om de druk te verdelen werden speciale schoenen aangeboden die de druk nog meer zouden verdelen.
+
+> [!NOTE]
+> De helft van de blessures kan worden tegengewerkt door betere schoenen en/of door te lopen op andere ondergrond volgens de expert.
+
+De sensor binnen dit project zal niet werken zoals bovenstaand systeem, hierbij worden schokken gemeten. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Aan de start van heb project werden reeds enkele problemen van het bestaande bandje, van ‘Movesense’, meegeven door de experts van de UGent die al tal van onderzoek hadden ondernomen. Enkele grote problemen zijn;
+-	De vorm en kleur van het bandje geeft de mensen een gevangenis gevoel.
+-	De gebruiker weet niet goed hoe en waar de sensor juist te bevestigen.
+-	De gebruiker weet pas na zijn activiteit hoe hij/zij hebben gelopen.
+
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
