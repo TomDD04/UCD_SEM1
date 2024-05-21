@@ -86,28 +86,114 @@ Bij het expertinterview bij Runners Lab is meer te weten gekomen hoe ze tot nu t
 
 Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert volkomen normaal. Om de druk te verdelen werden speciale schoenen aangeboden die de druk nog meer zouden verdelen. 
 
+> "De helft van de blessures kan worden tegengewerkt door betere schoenen en/of door te lopen op andere ondergrond volgens de expert."   - expert UGent
 
-> De helft van de blessures kan worden tegengewerkt door betere schoenen en/of door te lopen op andere ondergrond volgens de expert. ?border=true paramter 
+De sensor binnen dit project zal niet werken zoals bovenstaand systeem, deze sensor zal schokken meten op het scheenbeen. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Aan de start van heb project werden reeds enkele gebruikersbehoeften meegeven door de experts van de UGent die al tal van onderzoek hadden ondernomen; 
 
-De sensor binnen dit project zal niet werken zoals bovenstaand systeem, hierbij worden schokken gemeten. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Aan de start van heb project werden reeds enkele problemen van het bestaande bandje, van ‘Movesense’, meegeven door de experts van de UGent die al tal van onderzoek hadden ondernomen. Enkele grote problemen zijn;
--	De vorm en kleur van het bandje geeft de mensen een gevangenis gevoel.
--	De gebruiker weet niet goed hoe en waar de sensor juist te bevestigen.
--	De gebruiker weet pas na zijn activiteit hoe hij/zij hebben gelopen.
+   - Atleten hebben behoefte aan een lichtgewicht, comfortabele enkelband die nauwkeurige schokdetectie biedt zonder hun bewegingsvrijheid te beperken.
+   - De gebruiker en eventuele coaches, kinés en fysiotherapeuten willen real-time data om blessures te monitoren en preventief te handelen.
+   - De schoksensor moet schokken van verschillende intensiteiten kunnen detecteren en onderscheiden.
+   - Draadloze connectiviteit voor dataoverdracht naar mobiele apparaten.
+   - Duurzame materialen die bestand zijn tegen zweet, water en slijtage.
+   - Enig kleurgebruik zodat het niet verwijst naar een enkelband.
+   - Duidelijke gebruiksaanweizig zodat de meetresultaten optimaal zijn.
 
+Op de markt zijn enkele grote concurrenten zoals Garmin en Coros (bijlage C), maar geen van beiden biedt momenteel een combinatie van nauwkeurige schokdetectie met gebruiksgemak, comfort en kleur. Waardoor dus een groeiende interesse is in wearables en sporttechnologieën, wat een kans biedt voor marktentree. Een sportband is vooral gewenst in de sportwereld waar vaak voorkomende schokken plaatsvinden. Ook revalidatiecentra tonen interesse voor herstelmonitoring, maar binnen dit project wordt de focus gelegd op de sporters zelf die minder blessures zouden moeten ervaren in de toekomst dankzij Speedy Strides. 
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De Discovery fase heeft waardevolle inzichten opgeleverd die de basis vormen voor de verdere ontwikkeling van de enkelband met schoksensor. Het productontwerp moet prioriteit geven aan comfort, nauwkeurigheid, gebruiksvriendelijkheid en kleur. Ook draadloze en real-time datacommunicatie zijn essentiële functies. 
 
 ## Definition
-Max. 1000 woorden
 ### Doestellingen
-Wat wilde je bereiken?
+De definition fase richt zich op het vertalen van de inzichten uit de discovery fase naar duidelijke projectdoelen, vereisten en specificaties; 
+   - Formuleren van de probleemstelling: duidelijk omschrijven van het probleem dat het product oplost.
+   - Ontwikkelen van productvisie en doelstellingen: bepalen van de visie voor het product en de doelen die het moet bereiken.
+   - Opstellen van functionele en niet-functionele vereisten: specificeren van de technische en gebruikerseisen.
+   - Conceptontwikkeling: genereren en evalueren van verschillende conceptuele oplossingen.
+ 
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden worden gebruikt: 
+
+1. Probleemdefinitie:
+   - Werkdocumenten: gebruikersbehoeften en pijnpunten die werden gedocumenteerd tijdens de discovery fase.
+   - Methoden: semigestructureerde interviews met experts. 
+
+2. Productvisie en doelstellingen:
+   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart; bijlage Q)
+   - Methoden: gebruik van de inzichten uit de discovery fase om een visie op te stellen en specifieke, meetbare doelstellingen te definiëren. 
+
+3. Functionele en niet-functionele vereisten:
+   - Design requirements : een gedetailleerd document waarin alle functionele en niet-functionele eisen worden beschreven. (design requirements; bijlage S)
+   - Methoden: interviews en overleg met gebruikers en stakeholders om alle vereisten vast te leggen. 
+
+4. Conceptontwikkeling:
+   - Conceptschetsen: visuele en functionele schetsen van mogelijke productontwerpen.
+   - Methoden: creatieve sessies, prototyping workshops en gebruik van feedback loops om concepten te ontwikkelen en te evalueren.
+
+   
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Atleten en sporters hebben behoefte aan een betrouwbare en comfortabele manier om schokken tijdens fysieke activiteiten te monitoren en blessures te voorkomen. Dit kan gerealiseerd worden aan de hand van volgende vereisten; 
+
+Functionele vereisten: 
+   - De enkelband moet schokken van verschillende intensiteiten kunnen detecteren en onderscheiden.
+   - De schoksensor moet draadloos gegevens kunnen verzenden naar een gekoppelde mobiele app.
+   - De enkelband moet verstelbaar en comfortabel zijn voor verschillende enkelmaten. 
+
+Niet-functionele vereisten: 
+   - De enkelband moet bestand zijn tegen zweet, water en slijtage.
+   - De sensor moet real-time dataoverdracht met minimale latentie mogelijk maken. 
+
+Met deze hoofd ingesteld wordt opzoek gegaan naar een optimaal product dat zoveel mogelijk vereisten behaald. Het product wordt hoofdzakelijk in 3 delen verdelen; de band, het feedbacksysteem en een app. 
+
+*Het bandje* 
+De sensor in kwestie, van Movesense, moet in eerste instantie goed vastzitten om de kans op verlies te minimaliseren. Vervolgens moet het ook uitneembaar zijn voor eenvoudige reiniging en onderhoud. Om dit te kunnen realiseren is een eerste concept bedacht; 
+
+
+<p align="center">
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/5aa11b67-2d3a-4bd3-a58d-8eb20c616273" />
+</p>
+
+Een eenvoudig kliksysteem dat ervoor zorgt dat de sensor gemakkelijk afneembaar is maar nog steeds vast genoeg zit om lange afstanden te af te leggen. 
+
+
+Iedereen is uniek, dus ook ieders scheenbeen waarop de sensor moet bevestigd worden heeft verschillende afmetingen. Het is dus van groot belang de band verstelbaar te maken. Ook het comfort is hier een belangrijk aspect, de band wordt namelijk op de blote huid geplaats want kan zorgen voor eventuele irritaties. Omtrent dit aspect van het bandje worden 4 verschillende ideeën bedacht; 
+
+<p align="center">
+   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/8d487fe7-95a5-4507-b9c0-39b65aaf6b17" />
+   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/1fff3259-0e7c-4248-a66e-653e02eb9908" />
+   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/e2689592-8e59-4e1b-95d1-805699b188e4" />
+   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/4b329cd3-bd6b-46de-b69a-a1e6c85d8498" />
+</p>
+   - Een rubberband die een beetje elastisch is en je op verschillende posities kan aandoen. 
+   - Een velcroband die heel nauwkeurig kan ingesteld worden. 
+   - BOA-systeem optie 1; kan hard worden aangespannen. 
+   - BOA-systeem optie 2; kan hard worden aangespannen. 
+
+*Het feedbacksysteem*
+Het doel van het feedbacksysteem is het direct weergeven, op een manier, aan de atleet of die gezond aan het lopen is. En die manier wordt in dit project bepaald en getest. Volgens een expertinterview met een prof van de UGent die daar al onderzoek naar heeft gedaan, werden reeds enkele mogelijkheden als geschrapt zoals een variërende piep/geruis tijdens de muziek of trillingen bij de sensor. Deze mogelijkheden zouden leiden tot frustraties of slechte meetresultaten. Met deze info in aan de slag gegaan om een nieuwe manier te vinden.  
+
+Eerst werden alle zintuigen op gelijst; horen, zien, ruiken, proeven en tasten. Al snel werden ruiken en proeven geschrapt omdat deze binnen dit project niet haalbaard konden zijn wegens tijdsgebrek. Er werd nagedacht hoe de resterende zintuigen konden verwerkt worden in het feedbacksysteem. Volgens de expert zouden geluiden en trillingen niet het ideale zijn, mensen vinden dit niet aangenaam en kunnen verschieten bij onverwachtse geluiden of trillingen die rechtstreeks op het lichaam terechtkomen. Binnen dit project wordt ook gekeken naar het amusement van de atleten, een bepaalde competitie maakt het veel aantrekkelijker en leuker. En dat brengt ons bij het zintuig “zien”. Atleten zouden de gezondheid van hun loopstijl kunnen waarnemen aan de hand van een kleurencode. Licht is ook zichtbaar bij externe lopers waardoor je van elkaar kan zien hoe die aan het lopen is. Dit zou kunnen zorgen voor een extra uitdaging tussen elkaar. 
+
+*De app*
+Het gebruik van een app met een leuke interface en duidelijke meetresultaten biedt een breed scala aan voordelen voor gebruikers, waardoor de algehele ervaring niet alleen nuttig maar ook plezierig en motiverend wordt. Dit kan gerealiseerd worden door volgende zaken toe te passen; 
+   1. Esthetische aantrekkingskracht en eenvoud (lay-out, animatie...).
+   2. Duidelijke en heldere meetresultaten (grafieken, diagrammen ...).
+   3. Gamificatie-elementen (doelen).
+   4. Persoonlijke mijlpalen (persoonlijke records).
+   5. Feedback en inzichten (AI).
+   6. Gebruiksgemak.
+   7. Delen van prestatie/ Community (sociale interactie).
+   8. Controle/persoonlijk (personalisatie). 
+
+In de develop fase wordt de app nog extra toegelicht en welke features er effectief zullen toegepast geweest zijn. 
+
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De definition fase heeft geresulteerd in een duidelijke probleemdefinitie, visie, doelstellingen en een set gedetailleerde vereisten en concepten die de basis vormen voor de ontwikkeling van het product.  
+
+Het productontwerp moet rekening houden met zowel comfort als technische specificaties om een bruikbare en betrouwbare sportband te creëren. Conceptuele ontwerpen moeten verder worden uitgewerkt en gevalideerd door middel van prototyping en gebruikerstesten. 
+
+De resultaten en implicaties uit de definition fase vormen de basis voor de develop fase, waarin de concepten verder worden ontwikkeld en getest tot een volledig werkend product. 
 
 ## Develop
 
