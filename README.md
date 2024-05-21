@@ -4,7 +4,9 @@
 *Projectteam: Tom De Deyn en Emile Delanote*
 
 Datum: 21/06/2024
+
 Moment: 14u00
+
 Locatie: KWE.C.2.103
 
 ## Samenvatting
@@ -84,7 +86,7 @@ Bij het expertinterview bij Runners Lab is meer te weten gekomen hoe ze tot nu t
 
 Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert volkomen normaal. Om de druk te verdelen werden speciale schoenen aangeboden die de druk nog meer zouden verdelen. 
 
-> [!QUOTE]
+> [!NOTE]
 > De helft van de blessures kan worden tegengewerkt door betere schoenen en/of door te lopen op andere ondergrond volgens de expert.
 
 De sensor binnen dit project zal niet werken zoals bovenstaand systeem, hierbij worden schokken gemeten. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Aan de start van heb project werden reeds enkele problemen van het bestaande bandje, van ‘Movesense’, meegeven door de experts van de UGent die al tal van onderzoek hadden ondernomen. Enkele grote problemen zijn;
