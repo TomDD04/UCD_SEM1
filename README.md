@@ -1,9 +1,11 @@
 # Speedy strides
 *Oplossingen zoeken om op een gebruiksvriendelijke manier blessures te verminderen bij lopers.* 
 
-*Projectteam: Tom De Deyn; Emile Delanote*
+*Projectteam: Tom De Deyn en Emile Delanote*
 
-25/01/2024
+Datum: 21/06/2024
+Moment: 14u00
+Locatie: KWE.C.2.103
 
 ## Samenvatting
 
@@ -62,21 +64,27 @@ De doelstellingen van de Discovery fase voor het sportbandje met een sensor zijn
 
 ### Materiaal & methoden
 
-Aan de hand van een expertinterview zijn veel inzichten in de behoeften en ervaringen verkregen van het reeds bestaande bandje van “Movesense”.
-Om de problemen aan te kaarten is gebruikt gemaakt geweest van verschillende knowledge templates (Inovatrix, fishbone-diagram, problem-solution matrix, stat of the art en user model).
+Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden worden gebruikt: 
+   1. Interviewemet experts (Runners Lab en prof aan UGent): 
+      - Doelgroep: lange afstandslopers.
+      - Methode: semigestructureerde interviews om gedetailleerde informatie te verkrijgen over de behoeften, ervaringen, en verwachtingen van de doelgroep. 
+
+   2. Literatuuronderzoek en benchmarkanalyse: 
+      - Bronnen: technische documenten, en marktanalyses.
+      - Methode: Analyseren van bestaande onderzoeksliteratuur over bevestigingsmechanismes en gebruiksaanwijzingen en het evalueren van concurrenten om best praktische en technische vereisten te           identificeren. 
 
 
 ### Resultaten
 
-Bij het expertinterview is er meer te weten gekomen hoe ze tot nu toe de druk op de voeten meten bij lopers. Runners lab heeft een geavanceerde loopbaan waar drukplaten zijn in verwerkt waar ze de druk kunnen meten op de voeten. Aan de hand van deze platen kunnen ze exact bepalen hoe de loper zijn voet plaatst en welke zones van de voet de grootste schokken ervaart. Aan de hand van testen ter plaatse kon geconcludeerd worden dat het effectief beter is om met schoenen te lopen dan zonder. Op figuur 1 is de druk op de blote voet te zien, hierbij is duidelijk te zien dat de druk toeneemt bij de hielen. Bij figuur 2 is die druk verspreid over de zool van de schoen.
+Bij het expertinterview bij Runners Lab is meer te weten gekomen hoe ze tot nu toe heel gedetailleerde druk op de voeten meten bij lopers. Runners lab heeft een geavanceerde loopbaan waar drukplaten zijn in verwerkt waar ze de druk kunnen meten op de voeten. Aan de hand van deze platen kunnen ze exact bepalen hoe de loper zijn voet plaatst en welke zones van de voet de grootste schokken ervaart. Door te testen ter plaatse kon geconcludeerd worden dat het effectief beter is om met schoenen te lopen dan zonder. Op figuur 1 is de druk op de blote voet te zien, hierbij is duidelijk te zien dat de druk toeneemt bij de hielen. Bij figuur 2 is die druk verspreid over de zool van de schoen.
 
 <p align="center">
   <img width="100%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8e939a1d-717c-49e3-80a0-c127537a47a5">
 </p>
 
-Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert volkomen normaal. Om de druk te verdelen werden speciale schoenen aangeboden die de druk nog meer zouden verdelen.
+Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert volkomen normaal. Om de druk te verdelen werden speciale schoenen aangeboden die de druk nog meer zouden verdelen. 
 
-> [!NOTE]
+> [!QUOTE]
 > De helft van de blessures kan worden tegengewerkt door betere schoenen en/of door te lopen op andere ondergrond volgens de expert.
 
 De sensor binnen dit project zal niet werken zoals bovenstaand systeem, hierbij worden schokken gemeten. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Aan de start van heb project werden reeds enkele problemen van het bestaande bandje, van ‘Movesense’, meegeven door de experts van de UGent die al tal van onderzoek hadden ondernomen. Enkele grote problemen zijn;
