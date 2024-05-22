@@ -372,59 +372,59 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
 
-Bijlage A: gebruikte knowledge-templates
+**Bijlage A**: gebruikte knowledge-templates
 
 https://docs.google.com/document/d/1rDu2gdkoHxkqSsNqnPOpQ2U_P_NGA_d6gZlB2F06aVY/edit#heading=h.8syluf546kvd
 
-Bijlage B: Loopblessures: analyse en preventie
+**Bijlage B**: Loopblessures: analyse en preventie
 
 https://docs.google.com/document/d/1rNbRdzK3xAhq7m1gRGFKTgJ77XimaPN4Fm9anGRT7LU/edit#heading=h.uext8cud7kds
 
-Bijlage C: Benchmarking en marktonderzoek
+**Bijlage C**: Benchmarking en marktonderzoek
 
 https://docs.google.com/document/d/1eg9YsUrmO5p4hKGCMQCGX8X-lHcUrT4yTPxNtBrPRVE/edit#heading=h.48kv42bgtumf 
 
-Bijlage D: Interview resultaten rond loopgewoontes
+**Bijlage D**: Interview resultaten rond loopgewoontes
 
 https://docs.google.com/document/d/1lbEFYFDsraSsWYgn2hRCkcjhlhi-P3Uz0ADOGBdn-fw/edit#heading=h.a8kdqbn9o3rd 
 
-Bijlage E: Figma document
+**Bijlage E**: Figma document
 
 https://www.figma.com/file/ydLDrIaGCsD59FRvt96hYe/Fima-opdracht?type=design&node-id=1-311&mode=design&t=FrW7WN5HKXfvIHyC-0
 
-Bijlage F: Interviews semester 2: Develop fase
+**Bijlage F**: Interviews semester 2: Develop fase
 
 https://drive.google.com/drive/folders/17-zQsswORjvMahecACNJxrUqAIH1lmRp?usp=sharing
 
-Bijlage G: Alle (knowledge) templates en schema's die gebruikt werden tijdens dit project
+**Bijlage G**: Alle (knowledge) templates en schema's die gebruikt werden tijdens dit project
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage H: Ontwerpcriteria
+**Bijlage H**: Ontwerpcriteria
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage I: informed consents (semester 1):
+**Bijlage I**: informed consents (semester 1):
 
 https://docs.google.com/document/d/1d5ahYPP9f1Gux2ugPkh5U9bpO7yE1bfoZY0E75g6aBA/edit?usp=sharing
 
-Bijlage J: steekproef rond gemiddelde beenlengte:
+**Bijlage J**: steekproef rond gemiddelde beenlengte:
 
 https://docs.google.com/spreadsheets/d/1iyLlMreuCIT5_Npv61SrmFYFbvbRtk8V/edit?usp=sharing&ouid=105718855942615578231&rtpof=true&sd=true
 
-Bijlage K: Extra informatie rond de app
+**Bijlage K**: Extra informatie rond de app
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage L: Miro bord
+**Bijlage L**: Miro bord
 
 https://miro.com/app/board/uXjVNMeZ8Ew=/
 
-Bijlage M: Sales pitch video
+**Bijlage M**: Sales pitch video
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage N: Einde semester presentatie: (Merk op dat deze niet even geordend is als de presentatie de we hebben gegeven in powerpoint)
+**Bijlage N**: Einde semester presentatie: (Merk op dat deze niet even geordend is als de presentatie de we hebben gegeven in powerpoint)
 
 https://docs.google.com/presentation/d/1-fbhaN4cCPUxjWNAZ2rb4Jukypsry1oH/edit#slide=id.p2
 
