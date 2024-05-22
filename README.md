@@ -407,7 +407,7 @@ Bijlage G: Alle (knowledge) templates en schema's die gebruikt werden tijdens di
 
 Bijlage E: Ontwerpcriteria
 
-----------
+https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
 Bokmage F: informed consents (semester 1):
 
