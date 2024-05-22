@@ -88,7 +88,7 @@ Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden wo
 Bij het expertinterview bij Runners Lab is meer te weten gekomen hoe ze tot nu toe heel gedetailleerde druk op de voeten meten bij lopers. Runners lab heeft een geavanceerde loopbaan waar drukplaten zijn in verwerkt waar ze de druk kunnen meten op de voeten. Aan de hand van deze platen kunnen ze exact bepalen hoe de loper zijn voet plaatst en welke zones van de voet de grootste schokken ervaart. Door te testen ter plaatse kon geconcludeerd worden dat het effectief beter is om met schoenen te lopen dan zonder. Op figuur 1 is de druk op de blote voet te zien, hierbij is duidelijk te zien dat de druk toeneemt bij de hielen. Bij figuur 2 is die druk verspreid over de zool van de schoen.
 
 <p align="center">
-  <img width="100%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8e939a1d-717c-49e3-80a0-c127537a47a5">
+  <img width="60%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/8e939a1d-717c-49e3-80a0-c127537a47a5">
 </p>
 
 Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert volkomen normaal. Om de druk te verdelen werden speciale schoenen aangeboden die de druk nog meer zouden verdelen. 
