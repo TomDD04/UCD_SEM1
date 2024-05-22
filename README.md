@@ -71,12 +71,12 @@ De doelstellingen van de Discovery fase voor het sportbandje met een sensor zijn
 Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden worden gebruikt: 
    1. Interviewemet experts (Runners Lab en prof aan UGent): 
       - Doelgroep: lange afstandslopers.
-      - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A)
+      - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A/G)
       - Methode: semigestructureerde interviews om gedetailleerde informatie te verkrijgen over de behoeften, ervaringen, en verwachtingen van de doelgroep. 
 
    2. Literatuuronderzoek en benchmarkanalyse: 
       - Bronnen: technische documenten, en marktanalyses.
-      - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A)
+      - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A/G)
       - Methode: Analyseren van bestaande onderzoeksliteratuur over bevestigingsmechanismes en gebruiksaanwijzingen en het evalueren van concurrenten om best praktische en technische vereisten te identificeren. 
 
 <p align="center">
@@ -130,11 +130,11 @@ Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden wo
    - Methoden: semigestructureerde interviews met experts. 
 
 2. Productvisie en doelstellingen:
-   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart; bijlage A)
+   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart)
    - Methoden: gebruik van de inzichten uit de discovery fase om een visie op te stellen en specifieke, meetbare doelstellingen te definiëren. 
 
 3. Functionele en niet-functionele vereisten:
-   - Design requirements : een gedetailleerd document waarin alle functionele en niet-functionele eisen worden beschreven. (design requirements; bijlage A)
+   - Design requirements : een gedetailleerd document waarin alle functionele en niet-functionele eisen worden beschreven. (design requirements; bijlage G)
    - Methoden: interviews en overleg met gebruikers en stakeholders om alle vereisten vast te leggen. 
 
 4. Conceptontwikkeling:
@@ -217,7 +217,9 @@ Tijdens deze fase werden prototypes gemaakt die later konden gebruikt worden voo
 -	Feedback: het feedbacksysteem
 -	Begeleiding: de app
 
-Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlag X staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. In bijlage Y staan foto’s en video’s van de gebruikersinterviews.
+Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlag X staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. 
+- In bijlage F staan foto’s en video’s van de gebruikersinterviews.
+- In bijlage I staan een paar van de informed consents tijdens dit project.
 
 
 <p align="center">
@@ -262,7 +264,7 @@ Als laatst werd nog een nieuw bandje ontworpen waarbij de velcroband werd gecomb
 ![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/b8b88039-6031-49e4-b6a8-ffc8b124c944)
 
 ### De app
-De app onderging 3 belangrijke fasen in dit verslag wordt alleen fase 3 besproken maar in bijlage X staat een uitgebreide uitleg over elke designkeuze en een uitleg over elk prototype apart.
+De app onderging 3 belangrijke fasen in dit verslag wordt alleen fase 3 besproken maar in bijlage K staat een uitgebreide uitleg over elke designkeuze en een uitleg over elk prototype apart.
 
 
 
@@ -282,7 +284,7 @@ De app is opgedeeld in 4 verschillende delen:
 3.	Connectivity features: In de app zitten een aantal interfaces waarbij de app kan gelinkt worden aan de pod maar ook andere runningapps.
 4.	Motivation features: Om de gebruiker te motiveren wordt  gebruik gemaakt van een award systeem waarbij de loper beloond wordt voor opmerkelijke loopprestaties bij een laag blessuregevaar.
 
-Merk op dat alle interfaces met elkaar verbonden zijn voor een soepel gebruik. De app is getest via de usability test questions waarbij aan de gebruiker gevraagd werd om een bepaalde taak uit te voeren op de app. Voor meer informatie duidelijke afbeeldingen zie bijlage X.
+Merk op dat alle interfaces met elkaar verbonden zijn voor een soepel gebruik. De app is getest via de usability test questions waarbij aan de gebruiker gevraagd werd om een bepaalde taak uit te voeren op de app. Voor meer informatie duidelijke afbeeldingen zie bijlage K.
 
 <p align="center">
   <img width="80%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/0181cc80-1b62-49fd-a4b8-90c2b4fcca95">
@@ -365,13 +367,6 @@ Conclusie
 Het project om een sportbandje voor het scheenbeen te ontwikkelen was uitdagend maar ook zeer leerzaam. Ondanks de obstakels hebben we een product kunnen realiseren dat aan de meeste van onze eisen voldoet. De ervaring heeft ons waardevolle inzichten gegeven in samenwerking, probleemoplossing, productontwikkeling en het gebruik van verschillende templates. Met de geleerde lessen kunnen we toekomstige projecten efficiënter en effectiever aanpakken. 
 
  
-
-
-
-
-
-
-
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
@@ -405,31 +400,31 @@ Bijlage G: Alle (knowledge) templates en schema's die gebruikt werden tijdens di
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage E: Ontwerpcriteria
+Bijlage H: Ontwerpcriteria
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bokmage F: informed consents (semester 1):
+Bijlage I: informed consents (semester 1):
 
 https://docs.google.com/document/d/1d5ahYPP9f1Gux2ugPkh5U9bpO7yE1bfoZY0E75g6aBA/edit?usp=sharing
 
-Bijglage G: steekproef rond gemiddelde beenlengte:
+Bijlage J: steekproef rond gemiddelde beenlengte:
 
 https://docs.google.com/spreadsheets/d/1iyLlMreuCIT5_Npv61SrmFYFbvbRtk8V/edit?usp=sharing&ouid=105718855942615578231&rtpof=true&sd=true
 
-Bijlage H: Extra informatie rond de app
+Bijlage K: Extra informatie rond de app
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage I: Miro bord
+Bijlage L: Miro bord
 
 https://miro.com/app/board/uXjVNMeZ8Ew=/
 
-Bijlage J: Sales pitch video
+Bijlage M: Sales pitch video
 
 https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
-Bijlage K: Einde semester presentatie: (Merk op dat deze niet even geordend is als de presentatie de we hebben gegeven in powerpoint)
+Bijlage N: Einde semester presentatie: (Merk op dat deze niet even geordend is als de presentatie de we hebben gegeven in powerpoint)
 
 https://docs.google.com/presentation/d/1-fbhaN4cCPUxjWNAZ2rb4Jukypsry1oH/edit#slide=id.p2
 
