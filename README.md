@@ -403,7 +403,7 @@ https://drive.google.com/drive/folders/17-zQsswORjvMahecACNJxrUqAIH1lmRp?usp=sha
 
 Bijlage G: Alle (knowledge) templates en schema's die gebruikt werden tijdens dit project
 
----------
+https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
 Bijlage E: Ontwerpcriteria
 
@@ -417,9 +417,9 @@ Bijglage G: steekproef rond gemiddelde beenlengte:
 
 https://docs.google.com/spreadsheets/d/1iyLlMreuCIT5_Npv61SrmFYFbvbRtk8V/edit?usp=sharing&ouid=105718855942615578231&rtpof=true&sd=true
 
-Bijlage H: Extra informatie rond de develop fase (voornamelijk verslagopbouw)
+Bijlage H: Extra informatie rond de app
 
----------
+https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 
 Bijlage I: Miro bord
 
