@@ -173,12 +173,6 @@ Een eenvoudig kliksysteem dat ervoor zorgt dat de sensor gemakkelijk afneembaar 
 
 Iedereen is uniek, dus ook ieders scheenbeen waarop de sensor moet bevestigd worden heeft verschillende afmetingen. Het is dus van groot belang de band verstelbaar te maken. Ook het comfort is hier een belangrijk aspect, de band wordt namelijk op de blote huid geplaats want kan zorgen voor eventuele irritaties. Omtrent dit aspect van het bandje worden 4 verschillende ideeën bedacht; 
 
-<p align="center">
-   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/8d487fe7-95a5-4507-b9c0-39b65aaf6b17" />
-   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/1fff3259-0e7c-4248-a66e-653e02eb9908" />
-   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/e2689592-8e59-4e1b-95d1-805699b188e4" />
-   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/4b329cd3-bd6b-46de-b69a-a1e6c85d8498" />
-</p>
    - Een rubberband die een beetje elastisch is en je op verschillende posities kan aandoen. 
    - Een velcroband die heel nauwkeurig kan ingesteld worden. 
    - BOA-systeem optie 1; kan hard worden aangespannen. 
