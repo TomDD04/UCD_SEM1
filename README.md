@@ -424,3 +424,12 @@ https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
 Bijlage I: Miro bord
 
 https://miro.com/app/board/uXjVNMeZ8Ew=/
+
+Bijlage J: Sales pitch video
+
+https://drive.google.com/drive/u/0/folders/1lBuBQ55Dt7MlqOjTLp1L33k3gb7TLocE
+
+Bijlage K: Einde semester presentatie: (Merk op dat deze niet even geordend is als de presentatie de we hebben gegeven in powerpoint)
+
+https://docs.google.com/presentation/d/1-fbhaN4cCPUxjWNAZ2rb4Jukypsry1oH/edit#slide=id.p2
+
