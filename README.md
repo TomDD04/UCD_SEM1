@@ -46,13 +46,15 @@ Meer over onze design requirements zijn te vinden binnen de discovery fase.
   <img width="100%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/d91b6950-7a2f-4cde-8bcf-f76a0020c21a">
 </p>
 
+We hebben onze planning sterk gebaseerd op het New Product Development (NPD) proces en het double diamond proces. Hierboven een analyse van hoe we tewerk zijn gegaan aan de hand van een flowchart. Tijdens de eerste weken (Q1) werd gefocust op de discovery van de probleemstelling. Hierbij werden twee belangrijke vragen gesteld:
 
-We hebben onze planning sterk gebaseerd op het New Product Development (NPD) proces. In de eerste zeven weken was het hoofddoel om zoveel mogelijk te leren. We hebben ons specifiek gericht op de runnersworld, waarbij we verschillende hardlooptools op de markt hebben gedocumenteerd en persoonlijke interviews hebben gehouden met amateurlopers. Deze research fase staat uitgebreid uitgelegd in de discovery fase binnen ons project.
-Om de probleemruimte aan te kaarten werd gebruik gemaakt van de 5 knowledge templates, hieronder weergeven. Binnen de discovery fase zullen we uitgebreid een aantal van deze technieken bespreken. 
+-	Hoe kunnen we blessures vermijden bij de gebruiker
+-	Hoe kunnen we het product van ontracx verbeteren.
 
-<p align="center">
-  <img width="60%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/3103a6a8-4de4-4375-af2c-88cd80151a41">
-</p>
+Deze vragen hebben we systematisch uitewerkt om een beter idee te krijgen over de probleemruimte aan de hand van verschillende methoden, in onderstaande figuur beschreven. De voornaamste informatie werd gehaald uit benchmarking, expertinterviews en gebruikersinterviews. Hierop werd binnen de define fase verder gewerkt door mogelijke oplossingen te formuleren aan de hand van eerte prototypes en verschillende knowledge templates. 
+
+Als laatst werd vooral gefocuust op het uitwerken van verschillende oplossingen voor de probleemruimte. Er werden drie verschillende oplossingen uitgewerkt in 3 design iterations aan de hand van verschillende templates om tot een efficiente oplossing te komen.
+
 
 ## Discovery
 
@@ -77,6 +79,9 @@ Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden wo
       - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A)
       - Methode: Analyseren van bestaande onderzoeksliteratuur over bevestigingsmechanismes en gebruiksaanwijzingen en het evalueren van concurrenten om best praktische en technische vereisten te identificeren. 
 
+<p align="center">
+  <img width="85%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/19e5080b-f456-4d32-ad08-898704a33ff3">
+</p>
 
 ### Resultaten
 
@@ -103,7 +108,12 @@ De sensor binnen dit project zal niet werken zoals bovenstaand systeem, deze sen
 Op de markt zijn enkele grote concurrenten zoals Garmin en Coros (bijlage C), maar geen van beiden biedt momenteel een combinatie van nauwkeurige schokdetectie met gebruiksgemak, comfort en kleur. Waardoor dus een groeiende interesse is in wearables en sporttechnologieën, wat een kans biedt voor marktentree. Een sportband is vooral gewenst in de sportwereld waar vaak voorkomende schokken plaatsvinden. Ook revalidatiecentra tonen interesse voor herstelmonitoring, maar binnen dit project wordt de focus gelegd op de sporters zelf die minder blessures zouden moeten ervaren in de toekomst dankzij Speedy Strides. 
 
 ### Conclusies & implicaties
-De Discovery fase heeft waardevolle inzichten opgeleverd die de basis vormen voor de verdere ontwikkeling van de enkelband met schoksensor. Het productontwerp moet prioriteit geven aan comfort, nauwkeurigheid, gebruiksvriendelijkheid en kleur. Ook draadloze en real-time datacommunicatie zijn essentiële functies. 
+De Discovery fase heeft waardevolle inzichten opgeleverd die de basis vormen voor de verdere ontwikkeling van de enkelband met schoksensor. Het productontwerp moet prioriteit geven aan comfort, nauwkeurigheid, gebruiksvriendelijkheid en kleur. Ook draadloze en real-time datacommunicatie zijn essentiële functies.
+De grootste problemen die naar voren komen bij het product van ontracx zijn hieronder opgelijst en zullen dus tijdens dit project worden opgelost.
+
+<p align="center">
+  <img width="40%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/adfc0ad6-27d3-461f-814e-a211f18264c0">
+</p>
 
 ## Definition
 ### Doestellingen
@@ -130,6 +140,10 @@ Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden wo
 4. Conceptontwikkeling:
    - Conceptschetsen: visuele en functionele schetsen van mogelijke productontwerpen.
    - Methoden: creatieve sessies, prototyping workshops en gebruik van feedback loops om concepten te ontwikkelen en te evalueren.
+
+<p align="center">
+  <img width="85%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/ae850c44-a04b-4d6c-854d-98ef6e4144b3">
+</p>
 
    
 ### Resultaten
@@ -208,6 +222,12 @@ Tijdens deze fase werden prototypes gemaakt die later konden gebruikt worden voo
 
 Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlag X staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. In bijlage Y staan foto’s en video’s van de gebruikersinterviews.
 
+
+<p align="center">
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/0b2b68be-73b4-44eb-b4b4-af91b52900ed" />
+</p>
+
+
 ### De sensorband
 
 Voor de sensorband werd vrij snel duidelijk wat voor een systeem kon gebruikt worden voor het hoesje van de pod. Hierbij werd gekozen voor een eenvoudig kliksysteem.
@@ -229,13 +249,14 @@ Vervolgens werd gezocht naar nieuwe hechtingssystemen die de pod stevig bevestig
 
 Uit de gebruikerstesten werd een inovatrix opgesteld om te beslissen welk systeem het beste was.
 
-![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/1cedb1e7-3bb4-4ff8-bb76-a4d420029f74)
-![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/b91662ab-ec49-45fa-ba88-12b5bb75e425)
+
 
 Vervolgens zijn er unieke hoesjes gemaakt die zorgen voor nog meer personalisatie. De hoesjes kunnen dus geproduceerd worden in verschillende vormen en kleuren.
 
 <p align="center">
-  <img src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/6ffdb45f-d50d-45e3-9c9e-e10cd101ec27" />
+   <img height='210' src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/1cedb1e7-3bb4-4ff8-bb76-a4d420029f74" />
+    <img height='210' src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/b91662ab-ec49-45fa-ba88-12b5bb75e425" />
+    <img height='210' src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/6ffdb45f-d50d-45e3-9c9e-e10cd101ec27" />
 </p>
 
 Als laatst werd nog een nieuw bandje ontworpen waarbij de velcroband werd gecombineerd met een elastisch bandje voor een stevigere en comfortabelere hechting aan het been. Met dit systeem zijn alle problemen uit de gebruikerstesten opgelost.
