@@ -161,24 +161,23 @@ Niet-functionele vereisten:
 Met deze hoofd ingesteld wordt opzoek gegaan naar een optimaal product dat zoveel mogelijk vereisten behaald. Het product wordt hoofdzakelijk in 3 delen verdelen; de band, het feedbacksysteem en een app. 
 
 *Het bandje* 
-De sensor in kwestie, van Movesense, moet in eerste instantie goed vastzitten om de kans op verlies te minimaliseren. Vervolgens moet het ook uitneembaar zijn voor eenvoudige reiniging en onderhoud. Om dit te kunnen realiseren is een eerste concept bedacht; 
 
+De sensor in kwestie, van Movesense, moet in eerste instantie goed vastzitten om de kans op verlies te minimaliseren. Vervolgens moet het ook uitneembaar zijn voor eenvoudige reiniging en onderhoud. Om dit te kunnen realiseren is een eerste concept bedacht, namelijk een eenvoudig kliksysteem dat ervoor zorgt dat de sensor gemakkelijk afneembaar is maar nog steeds vast genoeg zit om lange afstanden af te leggen. 
+
+Iedereen is uniek, dus ook ieders scheenbeen waarop de sensor moet bevestigd worden heeft verschillende afmetingen. Het is dus van groot belang de band verstelbaar te maken. Ook het comfort is hier een belangrijk aspect, de band wordt namelijk op de blote huid geplaats want kan zorgen voor eventuele irritaties. Hierbij de verschillende ontwerpideeën;
 
 <p align="center">
-  <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/5aa11b67-2d3a-4bd3-a58d-8eb20c616273" />
-</p>
+  <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/fce230f1-7151-471b-a57b-484d7bcf7da3" />
+</p> 
 
-Een eenvoudig kliksysteem dat ervoor zorgt dat de sensor gemakkelijk afneembaar is maar nog steeds vast genoeg zit om lange afstanden te af te leggen. 
-
-
-Iedereen is uniek, dus ook ieders scheenbeen waarop de sensor moet bevestigd worden heeft verschillende afmetingen. Het is dus van groot belang de band verstelbaar te maken. Ook het comfort is hier een belangrijk aspect, de band wordt namelijk op de blote huid geplaats want kan zorgen voor eventuele irritaties. Omtrent dit aspect van het bandje worden 4 verschillende ideeën bedacht; 
-
+   - klicksysteem voor sensor.
    - Een rubberband die een beetje elastisch is en je op verschillende posities kan aandoen. 
    - Een velcroband die heel nauwkeurig kan ingesteld worden. 
-   - BOA-systeem optie 1; kan hard worden aangespannen. 
-   - BOA-systeem optie 2; kan hard worden aangespannen. 
+   - BOA-systeem; kan hard worden aangespannen.
+
 
 *Het feedbacksysteem*
+
 Het doel van het feedbacksysteem is het direct weergeven, op een manier, aan de atleet of die gezond aan het lopen is. En die manier wordt in dit project bepaald en getest. Volgens een expertinterview met een prof van de UGent die daar al onderzoek naar heeft gedaan, werden reeds enkele mogelijkheden als geschrapt zoals een variërende piep/geruis tijdens de muziek of trillingen bij de sensor. Deze mogelijkheden zouden leiden tot frustraties of slechte meetresultaten. Met deze info in aan de slag gegaan om een nieuwe manier te vinden.  
 
 Eerst werden alle zintuigen op gelijst; horen, zien, ruiken, proeven en tasten. Al snel werden ruiken en proeven geschrapt omdat deze binnen dit project niet haalbaard konden zijn wegens tijdsgebrek. Er werd nagedacht hoe de resterende zintuigen konden verwerkt worden in het feedbacksysteem. Volgens de expert zouden geluiden en trillingen niet het ideale zijn, mensen vinden dit niet aangenaam en kunnen verschieten bij onverwachtse geluiden of trillingen die rechtstreeks op het lichaam terechtkomen. Binnen dit project wordt ook gekeken naar het amusement van de atleten, een bepaalde competitie maakt het veel aantrekkelijker en leuker. En dat brengt ons bij het zintuig “zien”. Atleten zouden de gezondheid van hun loopstijl kunnen waarnemen aan de hand van een kleurencode. Licht is ook zichtbaar bij externe lopers waardoor je van elkaar kan zien hoe die aan het lopen is. Dit zou kunnen zorgen voor een extra uitdaging tussen elkaar. 
