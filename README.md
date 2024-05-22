@@ -166,21 +166,24 @@ De sensor in kwestie, van Movesense, moet in eerste instantie goed vastzitten om
 
 Iedereen is uniek, dus ook ieders scheenbeen waarop de sensor moet bevestigd worden heeft verschillende afmetingen. Het is dus van groot belang de band verstelbaar te maken. Ook het comfort is hier een belangrijk aspect, de band wordt namelijk op de blote huid geplaats want kan zorgen voor eventuele irritaties. Hierbij de verschillende ontwerpideeën;
 
-<p align="center">
-  <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/fce230f1-7151-471b-a57b-484d7bcf7da3" />
-</p> 
-
-   - klicksysteem voor sensor.
+   - klicksysteem voor sensor: Zorgt er voor dat de movesense pod niet uit de band valt tijdens het lopen. Zo moet de gebruiker zich geen zorgen maken over het verliezen van de pod tijdens het lopen.
    - Een rubberband die een beetje elastisch is en je op verschillende posities kan aandoen. 
-   - Een velcroband die heel nauwkeurig kan ingesteld worden. 
-   - BOA-systeem; kan hard worden aangespannen.
+   - Een velcroband die heel nauwkeurig kan ingesteld worden. Het voordeel aan dit soort systeem is het hechtingssysteem dat iedereen kent. Op die manier zijn we zeker dat mensen het systeem op een juiste manier zullen aandoen.
+   - BOA-systeem; Uit research blijkt dat bij vele toepassingen zoals armbraces en ski schoenen een ‘boa’-systeem wordt gebruikt omdat dit voor een zeer stevige hechting. Het werkt via een touwtje dat door een donut draaisysteem gaat en door aan de buitenste ring te draaien rol je het touwtje op. Hierdoor zal de draad harder gaan spannen.
 
+<p align="center">
+  <img height="300" src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/fce230f1-7151-471b-a57b-484d7bcf7da3" />
+   <img height="300" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/ddef388b-b5ee-475e-88a3-6829306248b1" />
+   <img height="300" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/e6fd10d2-24b0-4329-ac92-57e97a3b3b3e1" />
+</p> 
 
 *Het feedbacksysteem*
 
 Het doel van het feedbacksysteem is het direct weergeven, op een manier, aan de atleet of die gezond aan het lopen is. En die manier wordt in dit project bepaald en getest. Volgens een expertinterview met een prof van de UGent die daar al onderzoek naar heeft gedaan, werden reeds enkele mogelijkheden als geschrapt zoals een variërende piep/geruis tijdens de muziek of trillingen bij de sensor. Deze mogelijkheden zouden leiden tot frustraties of slechte meetresultaten. Met deze info in aan de slag gegaan om een nieuwe manier te vinden.  
 
 Eerst werden alle zintuigen op gelijst; horen, zien, ruiken, proeven en tasten. Al snel werden ruiken en proeven geschrapt omdat deze binnen dit project niet haalbaard konden zijn wegens tijdsgebrek. Er werd nagedacht hoe de resterende zintuigen konden verwerkt worden in het feedbacksysteem. Volgens de expert zouden geluiden en trillingen niet het ideale zijn, mensen vinden dit niet aangenaam en kunnen verschieten bij onverwachtse geluiden of trillingen die rechtstreeks op het lichaam terechtkomen. Binnen dit project wordt ook gekeken naar het amusement van de atleten, een bepaalde competitie maakt het veel aantrekkelijker en leuker. En dat brengt ons bij het zintuig “zien”. Atleten zouden de gezondheid van hun loopstijl kunnen waarnemen aan de hand van een kleurencode. Licht is ook zichtbaar bij externe lopers waardoor je van elkaar kan zien hoe die aan het lopen is. Dit zou kunnen zorgen voor een extra uitdaging tussen elkaar. 
+
+
 <p align="center">
    <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/ec294107-3718-4289-8bbc-c5c6c726dfa2" />
 </p>
@@ -209,9 +212,10 @@ De resultaten en implicaties uit de definition fase vormen de basis voor de deve
 ## Develop
 
 Tijdens deze fase werden prototypes gemaakt die later konden gebruikt worden voor gebruikerstesten om mogelijke pijnpunten binnen het product te situreren. Binnen deze fase focussen we ons op volgende 3 gadgets:
-•	Bevesteging: De sensorband
-•	Feedback: het feedbacksysteem
-•	Begeleiding: de app
+
+-	Bevesteging: De sensorband
+-	Feedback: het feedbacksysteem
+-	Begeleiding: de app
 
 Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlag X staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. In bijlage Y staan foto’s en video’s van de gebruikersinterviews.
 
@@ -392,3 +396,31 @@ https://docs.google.com/document/d/1lbEFYFDsraSsWYgn2hRCkcjhlhi-P3Uz0ADOGBdn-fw/
 Bijlage E: Figma document
 
 https://www.figma.com/file/ydLDrIaGCsD59FRvt96hYe/Fima-opdracht?type=design&node-id=1-311&mode=design&t=FrW7WN5HKXfvIHyC-0
+
+Bijlage F: Interviews semester 2: Develop fase
+
+https://drive.google.com/drive/folders/17-zQsswORjvMahecACNJxrUqAIH1lmRp?usp=sharing
+
+Bijlage G: Alle (knowledge) templates en schema's die gebruikt werden tijdens dit project
+
+---------
+
+Bijlage E: Ontwerpcriteria
+
+----------
+
+Bokmage F: informed consents (semester 1):
+
+https://docs.google.com/document/d/1d5ahYPP9f1Gux2ugPkh5U9bpO7yE1bfoZY0E75g6aBA/edit?usp=sharing
+
+Bijglage G: steekproef rond gemiddelde beenlengte:
+
+https://docs.google.com/spreadsheets/d/1iyLlMreuCIT5_Npv61SrmFYFbvbRtk8V/edit?usp=sharing&ouid=105718855942615578231&rtpof=true&sd=true
+
+Bijlage H: Extra informatie rond de develop fase (voornamelijk verslagopbouw)
+
+---------
+
+Bijlage I: Miro bord
+
+https://miro.com/app/board/uXjVNMeZ8Ew=/
