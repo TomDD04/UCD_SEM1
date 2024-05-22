@@ -106,7 +106,6 @@ De Discovery fase heeft waardevolle inzichten opgeleverd die de basis vormen voo
 ## Definition
 ### Doestellingen
 De definition fase richt zich op het vertalen van de inzichten uit de discovery fase naar duidelijke projectdoelen, vereisten en specificaties; 
-   - Formuleren van de probleemstelling: duidelijk omschrijven van het probleem dat het product oplost.
    - Ontwikkelen van productvisie en doelstellingen: bepalen van de visie voor het product en de doelen die het moet bereiken.
    - Opstellen van functionele en niet-functionele vereisten: specificeren van de technische en gebruikerseisen.
    - Conceptontwikkeling: genereren en evalueren van verschillende conceptuele oplossingen.
