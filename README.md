@@ -69,11 +69,13 @@ De doelstellingen van de Discovery fase voor het sportbandje met een sensor zijn
 Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden worden gebruikt: 
    1. Interviewemet experts (Runners Lab en prof aan UGent): 
       - Doelgroep: lange afstandslopers.
+      - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A)
       - Methode: semigestructureerde interviews om gedetailleerde informatie te verkrijgen over de behoeften, ervaringen, en verwachtingen van de doelgroep. 
 
    2. Literatuuronderzoek en benchmarkanalyse: 
       - Bronnen: technische documenten, en marktanalyses.
-      - Methode: Analyseren van bestaande onderzoeksliteratuur over bevestigingsmechanismes en gebruiksaanwijzingen en het evalueren van concurrenten om best praktische en technische vereisten te           identificeren. 
+      - Werkdocumenten; een algemeen idee geven over het doel en de mogenlijkheden van het concept. (desirability template, design requirements en state of the art; bijlage A)
+      - Methode: Analyseren van bestaande onderzoeksliteratuur over bevestigingsmechanismes en gebruiksaanwijzingen en het evalueren van concurrenten om best praktische en technische vereisten te identificeren. 
 
 
 ### Resultaten
@@ -88,7 +90,7 @@ Bovendien is de voetplaatsing niet volledig recht maar dat is volgens de expert 
 
 > "De helft van de blessures kan worden tegengewerkt door betere schoenen en/of door te lopen op andere ondergrond."   - expert UGent
 
-De sensor binnen dit project zal niet werken zoals bovenstaand systeem, deze sensor zal schokken meten op het scheenbeen. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Aan de start van heb project werden reeds enkele gebruikersbehoeften meegeven door de experts van de UGent die al tal van onderzoek hadden ondernomen; 
+De sensor binnen dit project zal niet werken zoals bovenstaand systeem, deze sensor zal schokken meten op het scheenbeen. Het is dus om heel nauwkeurige plaatselijke meetresultaten te bekomen en hierop te anticiperen. Door middel van expertinterviews en benckmarking zijn tal van vereisten kunnen worden opgelijst; 
 
    - Atleten hebben behoefte aan een lichtgewicht, comfortabele enkelband die nauwkeurige schokdetectie biedt zonder hun bewegingsvrijheid te beperken.
    - De gebruiker en eventuele coaches, kinés en fysiotherapeuten willen real-time data om blessures te monitoren en preventief te handelen.
@@ -118,7 +120,7 @@ Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden wo
    - Methoden: semigestructureerde interviews met experts. 
 
 2. Productvisie en doelstellingen:
-   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart)
+   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart; bijlage A)
    - Methoden: gebruik van de inzichten uit de discovery fase om een visie op te stellen en specifieke, meetbare doelstellingen te definiëren. 
 
 3. Functionele en niet-functionele vereisten:
@@ -172,6 +174,9 @@ Iedereen is uniek, dus ook ieders scheenbeen waarop de sensor moet bevestigd wor
 Het doel van het feedbacksysteem is het direct weergeven, op een manier, aan de atleet of die gezond aan het lopen is. En die manier wordt in dit project bepaald en getest. Volgens een expertinterview met een prof van de UGent die daar al onderzoek naar heeft gedaan, werden reeds enkele mogelijkheden als geschrapt zoals een variërende piep/geruis tijdens de muziek of trillingen bij de sensor. Deze mogelijkheden zouden leiden tot frustraties of slechte meetresultaten. Met deze info in aan de slag gegaan om een nieuwe manier te vinden.  
 
 Eerst werden alle zintuigen op gelijst; horen, zien, ruiken, proeven en tasten. Al snel werden ruiken en proeven geschrapt omdat deze binnen dit project niet haalbaard konden zijn wegens tijdsgebrek. Er werd nagedacht hoe de resterende zintuigen konden verwerkt worden in het feedbacksysteem. Volgens de expert zouden geluiden en trillingen niet het ideale zijn, mensen vinden dit niet aangenaam en kunnen verschieten bij onverwachtse geluiden of trillingen die rechtstreeks op het lichaam terechtkomen. Binnen dit project wordt ook gekeken naar het amusement van de atleten, een bepaalde competitie maakt het veel aantrekkelijker en leuker. En dat brengt ons bij het zintuig “zien”. Atleten zouden de gezondheid van hun loopstijl kunnen waarnemen aan de hand van een kleurencode. Licht is ook zichtbaar bij externe lopers waardoor je van elkaar kan zien hoe die aan het lopen is. Dit zou kunnen zorgen voor een extra uitdaging tussen elkaar. 
+<p align="center">
+   <img src="https://github.com/TomDD04/UCD_SEM1/assets/159797493/ec294107-3718-4289-8bbc-c5c6c726dfa2" />
+</p>
 
 *De app*
 Het gebruik van een app met een leuke interface en duidelijke meetresultaten biedt een breed scala aan voordelen voor gebruikers, waardoor de algehele ervaring niet alleen nuttig maar ook plezierig en motiverend wordt. Dit kan gerealiseerd worden door volgende zaken toe te passen; 
