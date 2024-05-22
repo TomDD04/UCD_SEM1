@@ -317,7 +317,56 @@ Hierbij viel op dat de gebruiker overal dezelfde positieve mening had over de po
 </p>
 
 ## Kritische reflectie
-Max. 500 woorden
+In dit project, bestaande uit twee teamleden, hebben we gewerkt aan de ontwikkeling van een sportbandje voor het scheenbeen. Het doel was om een comfortabel, vertrouwd en direct bandje te ontwerpen dat sporters ondersteunt bij hun activiteiten. Het bandje moest stevig om het scheenbeen blijven zitten tijdens bewegingen en tegelijkertijd ademend en vochtregulerend zijn. 
+
+ 
+Positieve aspecten 
+   1. Samenwerking en communicatie:
+      - Sterke teamdynamiek: de samenwerking tussen de teamleden verliep over het algemeen heel goed. We hadden regelmatige vergaderingen om de voortgang te bespreken en beslissingen te nemen.
+      - Communicatie: we maakten effectief gebruik van digitale communicatiemiddelen zoals Messenger om constant in contact te blijven en ideeën uit te wisselen. Het meest gebeurde in real life. 
+
+   2. Ontwerp en innovatie:
+      - Creatief proces: het ontwerpproces was creatief en inspirerend. We hebben verschillende prototypes gemaakt en getest, wat ons hielp om tot een goed eindproduct te komen.
+      - Gebruik van technologie: we hebben voornamelijk gebruik gemaakt van 3D-printtechnologie om onze prototypes snel te kunnen vervaardigen en te kunnen aanpassen.  
+
+ 
+   3. Probleemoplossend vermogen:
+      - Flexibiliteit: tijdens het project kwamen we verschillende problemen tegen, zoals materiaal –en systeemkeuzes. Door flexibel te blijven en snel te reageren op problemen, konden we oplossingen vinden.
+      - Feedback integratie: door feedback van testgebruikers snel te integreren, hebben we het ontwerp continu kunnen verbeteren. 
+
+ 
+Uitdagingen en lessen 
+   1. Tijdbeheer:
+      - Planning: een van de grootste uitdagingen was het beheren van onze tijd. Hoewel we een duidelijke planning hadden, liepen we soms achter op schema door onvoorziene problemen. 
+
+   2. Materiaalkeuze:
+      - Duurzaamheid: we moesten balanceren tussen duurzaamheid, comfort en kosten, wat een uitdaging was bij de selectie van materialen. 
+
+   3. Technische uitdagingen:
+      - Productietoleranties: kleine afwijkingen in de productie veroorzaakten problemen met de pasvorm en functionaliteit, wat extra aanpassingen noodzakelijk maakte. 
+ 
+
+Verbeterpunten 
+   1. Betere planning en tijdbeheer:
+      - Strakkere planning: voor toekomstige projecten is een strikter tijdschema nodig, inclusief bufferperioden voor onvoorziene vertragingen.
+      - Tijdtracking: het bijhouden van de tijd besteed aan verschillende taken kan helpen bij het beter inschatten van toekomstige projecten. 
+
+   2. Testen:
+      - Meer testcycli: het integreren van meer testcycli in het ontwerpproces kan helpen om problemen eerder te identificeren en op te lossen. 
+
+ 
+
+Conclusie 
+
+Het project om een sportbandje voor het scheenbeen te ontwikkelen was uitdagend maar ook zeer leerzaam. Ondanks de obstakels hebben we een product kunnen realiseren dat aan de meeste van onze eisen voldoet. De ervaring heeft ons waardevolle inzichten gegeven in samenwerking, probleemoplossing, productontwikkeling en het gebruik van verschillende templates. Met de geleerde lessen kunnen we toekomstige projecten efficiënter en effectiever aanpakken. 
+
+ 
+
+
+
+
+
+
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
