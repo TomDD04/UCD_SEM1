@@ -119,11 +119,11 @@ Om deze doelstellingen te bereiken, zullen de volgende materialen en methoden wo
    - Methoden: semigestructureerde interviews met experts. 
 
 2. Productvisie en doelstellingen:
-   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart; bijlage Q)
+   - Visiedocument: een document dat de lange termijnvisie en missie van het product vastlegt. (methodologische kaart)
    - Methoden: gebruik van de inzichten uit de discovery fase om een visie op te stellen en specifieke, meetbare doelstellingen te definiëren. 
 
 3. Functionele en niet-functionele vereisten:
-   - Design requirements : een gedetailleerd document waarin alle functionele en niet-functionele eisen worden beschreven. (design requirements; bijlage S)
+   - Design requirements : een gedetailleerd document waarin alle functionele en niet-functionele eisen worden beschreven. (design requirements; bijlage A)
    - Methoden: interviews en overleg met gebruikers en stakeholders om alle vereisten vast te leggen. 
 
 4. Conceptontwikkeling:
