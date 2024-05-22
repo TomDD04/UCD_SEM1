@@ -217,7 +217,7 @@ Tijdens deze fase werden prototypes gemaakt die later konden gebruikt worden voo
 -	Feedback: het feedbacksysteem
 -	Begeleiding: de app
 
-Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlag X staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. 
+Hieronder staat een korte recap over de prototypes die werden gemaakt en de resultaten van de gebruikerstesten. In bijlage G en  staat er een veel uitgebreidere uitleg waarin alle designkeuzes en interviews in detail worden beschreven. 
 - In bijlage F staan foto’s en video’s van de gebruikersinterviews.
 - In bijlage I staan een paar van de informed consents tijdens dit project.
 
@@ -264,9 +264,7 @@ Als laatst werd nog een nieuw bandje ontworpen waarbij de velcroband werd gecomb
 ![image](https://github.com/TomDD04/UCD_SEM1/assets/157396738/b8b88039-6031-49e4-b6a8-ffc8b124c944)
 
 ### De app
-De app onderging 3 belangrijke fasen in dit verslag wordt alleen fase 3 besproken maar in bijlage K staat een uitgebreide uitleg over elke designkeuze en een uitleg over elk prototype apart.
-
-
+De app onderging 3 belangrijke fasen in dit verslag wordt alleen fase 3 besproken maar in bijlage K en G staat een uitgebreide uitleg over elke designkeuze en een uitleg over elk prototype apart.
 
 <p align="center">
   <img width="80%" alt="image" src="https://github.com/TomDD04/UCD_SEM1/assets/157396738/e8d6cebb-4201-4ca7-9933-545d876a8de9">
